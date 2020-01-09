@@ -25,6 +25,8 @@ Bei John Cages Werk 4:33'' spielt ein Konzertpianist in einem Konzertsaal nichts
 
 ### Musique Concrète & Studio für elektronische Musik
 
+Musique Concrète, eine Kompositionstechnik welche am Ende der ersten Hälfte des 20. Jahrhunderts geprägt wurde, arrangiert Klänge zu auditiven Erlebnissen, wobei sie sich die Uneindeutigkeit  und die Plastizität von Klang zu nutzen macht um über den Materiellen Bezug der Klänge hinauszugehen oder sich sogar gegen diese zu stellen. [@labelle_background_2010 25]
+
 ### Bill Fontana & die Vasulkas
 
 ## Aktuelle Entwicklungen in Sound Art
