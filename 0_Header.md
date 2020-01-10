@@ -57,7 +57,7 @@ header-includes: |
 
 Reisen mit dem Zug ist für viele Menschen Alltag. Ob das Pendeln zur Arbeit, der Besuch von Familie oder das Leben in einer Fernbeziehung. So erweitert sich der Raum, in dem das Leben erfahren wird, sowohl um die Infrastruktur des Netzes, also Bahnhöfe, Zugstrecken und Fahrzeuge, als auch um die Orte, welche besucht werden.
 
-*Vernetzt* ist eine Raumklanginstallation hergestellt aus Klängen von Zügen, algorithmisch komponiert aus Echtzeitdaten des Schienenverkehrs. Es handelt sich dabei um eine interaktive Installation mit visuellen Komponenten welche mit Webcrawling Daten sammelt, diese dann in *p5js* visuell aufbereitet und in der nodebasierten Entwicklungsumgebung *Max* sonifiziert.
+*Vernetzt* ist eine Raumklanginstallation hergestellt aus Klängen von Zügen, algorithmisch komponiert aus Echtzeitdaten des Schienenverkehrs. Es handelt sich dabei um eine interaktive Installation welche mit Webcrawling Daten sammelt, diese dann in *p5js* visuell aufbereitet und in der nodebasierten Entwicklungsumgebung *Max* sonifiziert.
 
 Die vorliegende Arbeit beschreibt den Entstehungsprozess der Arbeit und wie das Arbeiten mit Klängen und Echtzeitdaten in der Installation Kunsthistorisch einzuordnen ist.
 

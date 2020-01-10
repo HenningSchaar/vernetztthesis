@@ -14,6 +14,11 @@ Die Erfahrung dieser Individualität der räumlichen Lebensrealität und welche 
 
 ## Entstehung der Idee
 
-Am Anfang der Arbeit an der Installation, stand der Wunsch, das Schienennetz als akustischen Raum in Form einer Klangskultpur erfahrbar zu machen. Zunächst sollte dies mit Kontaktmikrofonen an mehreren Punkten im Schienennetz geschehen, welche per Livestreaming Audio an einen Ausstellungsraum übertragen sollten. Dies war jedoch wegen rechtlicher Unklarheit über §315 StGB: "Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr" nicht umzusetzen. 
+Am Anfang der Arbeit an der Installation, stand der Wunsch, das Schienennetz als akustischen Raum in Form einer Klangskultpur erfahrbar zu machen. Dieser war zum einen begründet in dem Bild des Ohr-an-die-Schiene-Haltens um Züge in der Ferne wahrnehmen zu können welches unter anderem in Western Filmen popularisiert wurde, zum anderen begründet in dem Verständnis von Raum geprägt von einer Welt in der Reisen durch die Technologisierung dessen, erreichbar für viele geworden ist.
 
-Auf der Suche nach alternativen kam die Website *Zugfinder.de* auf, welche Echtzeitdaten über alle Fernverkehrs- und Regionalzüge zur Verfügung stellt. Auf Basis dieser Livezugdaten wurde schließlich eine Visualisierung und eine Interaktive Klanginstallation hergestellt welche, das zu Anfang gesetzte Ziel auf andere Weise zu erreichen suchte.
+ Zunächst sollte die Akustische Skulptur funktionieren indem Kontaktmikrofone an mehreren Punkten im Schienennetz welche per Livestreaming Audio an einen Ausstellungsraum übertragen sollten. Dies war jedoch wegen rechtlicher Unklarheit über §315 StGB: "Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr" nicht umzusetzen. 
+
+Auf der Suche nach alternativen kamen die Möglichkeiten von Webcrawling und APIs auf. Schnittstellen welche Echtzeitdaten über alle Fernverkehrs- und Regionalzüge zur Verfügung stellen wurden gefunden und ergaben die neue Basis für die Installation. 
+
+Mit den dadurch neu eröffneten Möglichkeiten der Echtzeitdatenverarbeitung wandelte sich das Werk von einer Klangskulptur zu einer Interaktiven Multimedialen Installation. Eine Visualisierung der Daten wurde erstellt und eine Interaktionsmöglichkeit über eine trackballähnliche Interaktionsschnittstelle wurde hinzugefügt, welche das anfänglich gesetzte Ziel auf andere Weise zu erreichen suchten. 
+
