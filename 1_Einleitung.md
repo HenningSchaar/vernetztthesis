@@ -20,5 +20,5 @@ Am Anfang der Arbeit an der Installation, stand der Wunsch, das Schienennetz als
 
 Auf der Suche nach alternativen kamen die Möglichkeiten von Webcrawling und APIs auf. Schnittstellen welche Echtzeitdaten über alle Fernverkehrs- und Regionalzüge zur Verfügung stellen wurden gefunden und ergaben die neue Basis für die Installation. 
 
-Mit den dadurch neu eröffneten Möglichkeiten der Echtzeitdatenverarbeitung wandelte sich das Werk von einer Klangskulptur zu einer Interaktiven Multimedialen Installation. Eine Visualisierung der Daten wurde erstellt und eine Interaktionsmöglichkeit über eine trackballähnliche Interaktionsschnittstelle wurde hinzugefügt, welche das anfänglich gesetzte Ziel auf andere Weise zu erreichen suchten. 
+Mit den dadurch neu eröffneten Möglichkeiten der Echtzeitdatenverarbeitung wandelte sich das Werk von einer Klangskulptur zu einer Interaktiven Multimedialen Installation. Erweiterungen in Form einer Visualisierung der Daten und einer Interaktionsmöglichkeit über eine trackballähnliche Interaktionsschnittstelle wurden hinzugefügt, welche das anfänglich gesetzte Ziel auf andere Weise zu erreichen suchten. 
 
