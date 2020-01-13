@@ -16,7 +16,7 @@ Die Erfahrung dieser Individualität der räumlichen Lebensrealität und welche 
 
 Am Anfang der Arbeit an der Installation, stand der Wunsch, das Schienennetz als akustischen Raum in Form einer Klangskultpur erfahrbar zu machen. Dieser war zum einen begründet in dem Bild des Ohr-an-die-Schiene-Haltens um Züge in der Ferne wahrnehmen zu können welches unter anderem in Western Filmen popularisiert wurde, zum anderen begründet in dem Verständnis von Raum geprägt von einer Welt in der Reisen durch die Technologisierung dessen, erreichbar für viele geworden ist.
 
- Zunächst sollte die Akustische Skulptur funktionieren mit Kontaktmikrofonen, an mehreren Punkten im Schienennetz an den Gleisen angebracht, welche per Livestream über das Internet Audiosignale in einen Ausstellungsraum übertragen sollten. Dies war jedoch wegen rechtlicher Unklarheit über §315 StGB: "Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr" nicht umzusetzen. 
+ Zunächst sollte die Akustische Skulptur mit Kontaktmikrofonen funktionieren, welche an mehreren Punkten im Schienennetz an den Gleisen angebracht werden und per Livestream über das Internet Audiosignale in einen Ausstellungsraum übertragen sollten. Dies war jedoch wegen rechtlicher Unklarheit über §315 StGB: "Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr" nicht umzusetzen. 
 
 Auf der Suche nach alternativen kamen die Möglichkeiten von Webcrawling und APIs auf. Schnittstellen welche Echtzeitdaten über alle Fernverkehrs- und Regionalzüge zur Verfügung stellen wurden gefunden und ergaben die neue Basis für die Installation. 
 
