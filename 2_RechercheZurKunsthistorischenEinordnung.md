@@ -48,7 +48,7 @@ Anders allerdings als bei  *Musique Concrète* haben Steinas Werke einen perform
 
 In ihrer Arbeit  *Orbital Obsessions* nutzt sie zur Herstellung des Klangs das analoge Videosignal, begleitet durch die tatsächlichen Geräusche ihrer Umgebung [@vasulka_steinas_1977] Somit könnte dieses Werk als eine Frühform von künstlerischer Sonifciation verstanden werden. Unter den Begriff der Sonification fällt unter anderem die auditive Darstellung von Daten um ein Verständnis für diese zu entwickeln welches anders, oder sogar tiefer ist, als jenes welches beim Ansehen von Visualisierungen dieser Daten entstehen würde. [@worall_sonification_2019] In diesem Fall werden keine digitalen Daten verarbeitet, so kann jedoch ein Analoges Videosignal als äquivalent zu einem Datenstrom gesehen werden welcher in *Orbital Obsessions* auf direktem Wege zu einem akustischen Signal umgewandelt wird. Hierdurch bekommt die akustische Information eine Qualität welche die visuelle Wahrnehmung eines Bildes erweitert.
 
-### Bill Fontana
+### Bill Fontana {#bill-fontana}
 
 Bill Fontana ist ein US-Amerikanischer Künstler welcher seit 1976 Klanginstallationen herstellt. Was ihn von vielen anderen Klangkünstlern unterscheidet ist, dass er ausschließlich aufgenommene statt synthetische Geräusche  in seinen Werken verwendet. [@fontana_borrowed_1996] 
 
@@ -75,4 +75,6 @@ Hinzu kommt die wahrnehmungspsychologische, kognitive und emotionale Erforschung
 Im Kontext der Annäherung von zeitgenössischer Architektur und Kunst entstand auch der Wunsch, durch Klang Räume und Umgebungen zu schaffen und zu gestalten. Das erweiterte Feld der *Aural Architechture* beinhaltet Akustische Stadtplanung, Sound Mapping (das erstellen von digitalen Karten mit einem Fokus auf die klangliche Darstellung dieser Orte[@thulin_sound_2018 S. 24f]), Soundscape Ecology und andere Formen der auditiven räumlichen Arbeit. [@ouzounian_recomposing_2016 S. 1]
 
 Insbesondere seit 2010 sind in mehreren Großstädten Klangkunstinitiativen enstanden, welche öffentliche Klanginstallationen und akustische Planung, welche über das reduzieren von ungewünschten Geräuschen hinaus geht, fördern. [@ouzounian_recomposing_2016 S. 2] Durch das öffentlich Werden von Klangkunst, muss diese sich schließlich auch in die Lokalpolitik und Bürokratie der Stadtverwaltungen einbinden womit *Aural Architecture* eine ähnliche Verbindung zwischen Kunst und Politik herstellen muss wie Architektur und das entwickeln von öffentliche Infrastruktur.
+
+Einige von Bill Fontanas (\ref{bill-fontana} [Bill Fontana](#bill-fontana)) Werken wie *Landscape Sculpture with Foghorns* können auch als *Aural Architecture* verstanden werden, da sie den Klang eines öffentlichen Ortes modifizieren. Bill Fontana appelliert außerdem an Architekten, Klangkünstler stärker in die Planung ihrer Gebäude mit einzubeziehen. [@carre_dart_-_interviewer_unbekannt_interview_2014 5:30]
 
