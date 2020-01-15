@@ -70,7 +70,9 @@ Sound Design spielt bereits in manchen Bereichen der Produktentwicklung eine gro
 
 Hinzu kommt die wahrnehmungspsychologische, kognitive und emotionale Erforschung von auditiven Interaktionen sowie die bereits in \ref{steina-vasulka} ([*Steina Vasulka*](#steina-vasulka)) erwähnte Sonification, die Vertonung von Daten. [@pulkki_communication_2016 S. 386]
 
+### Aural Architecture
 
+Im Kontext der Annäherung von zeitgenössischer Architektur und Kunst entstand auch der Wunsch, durch Klang Räume und Umgebungen zu schaffen und zu gestalten. Das erweiterte Feld der *Aural Architechture* beinhaltet Akustische Stadtplanung, Sound Mapping (das erstellen von digitalen Karten mit einem Fokus auf die klangliche Darstellung dieser Orte[@thulin_sound_2018 S. 24f]), Soundscape Ecology und andere Formen der auditiven räumlichen Arbeit. [@ouzounian_recomposing_2016 S. 1]
 
-
+Insbesondere seit 2010 sind in mehreren Großstädten Klangkunstinitiativen enstanden, welche öffentliche Klanginstallationen und akustische Planung, welche über das reduzieren von ungewünschten Geräuschen hinaus geht, fördern. [@ouzounian_recomposing_2016 S. 2] Durch das öffentlich Werden von Klangkunst, muss diese sich schließlich auch in die Lokalpolitik und Bürokratie der Stadtverwaltungen einbinden womit *Aural Architecture* eine ähnliche Verbindung zwischen Kunst und Politik herstellen muss wie Architektur und das entwickeln von öffentliche Infrastruktur.
 

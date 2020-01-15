@@ -4,6 +4,8 @@
 
 ## Mögliche Ausstellungsorte
 
- \pagebreak
+# Danksagungen
+
+\pagebreak
 
 # Literaturverzeichnis 
