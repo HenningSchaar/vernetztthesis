@@ -44,6 +44,7 @@ header-includes: |
  \counterwithin{figure}{section}
  \counterwithin{table}{section}
  \setcounter{tocdepth}{4}
+ \usepackage[onehalfspacing]{setspace}
 ...
 
 \pagenumbering{gobble}

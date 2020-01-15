@@ -36,7 +36,7 @@ Parallelen zu der Kunstform des *Objet Trouvé* sind in der Nutzung von Geräusc
 
 Obwohl der Begriff der Site Specificity erst in den 1970ern geprägt wurde ist auch ein *Objet Trouvé* definiert durch die Parameter von denen das ausgestellte Werk abhängig ist. So handelt es sich bei einem der Populärsten Werke dieser Art um ein Pissoir welches von Marcel Duchamp signiert und ausgestellt wurde. [@gayford_duchamps_2008] Ein Pissoir ist im allgemeinen Kunstverständnis zu diesem Zeitpunkt nicht als Kunstwerk zu betrachten doch durch den Akt des Signierens und Austellens bezieht es sich auf die Tradition der Bildenden Kunst. Durch dieses Zusammenspiel von Objekt und Umgebung entsteht die künstlerische Idee schließlich in den Gedanken des Betrachters.
 
-### Steina Vasulka
+### Steina Vasulka {#steina-vasulka}
 
 Steina Vasulka, geboren als Steinunn Briem Bjarnadottir in Reykjavik, Island und Bohuslav Vasulka, bekannt als Woody, geboren in Brno, Tschechoslovakei sind ein Ehepaar welches 1964 in die Vereinigten Staaten von Amerika Immigrierte um dort in der Filmindustrie zu arbeiten. Zunächst handelte es sich bei ihren Werken um klassische Dokumentationen, ihre späteren Werke jedoch waren experimenteller und künstlerischer. Diese machten die beiden zu bedeutenden Ton- Bild- und Videokünstlern ihrer Zeit. [@bonin_steina_2003]
 
@@ -46,7 +46,7 @@ Steina Vasulka ist für Werke bekannt welche eine Schnittstelle zwischen Video u
 
 Anders allerdings als bei  *Musique Concrète* haben Steinas Werke einen performativen Charakter welcher durch ihre Erfahrungen als klassische Konzertmusikerin entstand. Durch das spielen eines Musikinstrumentes zur Herstellung von Bildeffekten zeigt Steina auf, welche Kapazität Video als interaktives Medium innewohnt. [@spielmann_video_2005 S. 3] 
 
-In ihrer Arbeit  *Orbital Obsessions* nutzt sie zur Herstellung des Klangs das analoge Videosignal, begleitet durch die tatsächlichen Geräusche ihrer Umgebung [@vasulka_steinas_1977] Somit könnte dieses Werk als eine Frühform von künstlerischer Sonifciation verstanden werden. Sonification ist die auditive Darstellung von Daten um ein Verständnis für diese zu entwickeln welches anders, oder sogar tiefer ist, als jenes welches beim Ansehen von Visualisierungen dieser Daten entstehen würde. [@worall_sonification_2019] In diesem Fall werden keine digitalen Daten verarbeitet, so kann jedoch ein Analoges Videosignal als äquivalent zu einem Datenstrom gesehen werden welcher in *Orbital Obsessions* auf direktem Wege zu einem akustischen Signal umgewandelt wird. Hierdurch bekommt die akustische Information eine Qualität welche die visuelle Wahrnehmung eines Bildes erweitert.
+In ihrer Arbeit  *Orbital Obsessions* nutzt sie zur Herstellung des Klangs das analoge Videosignal, begleitet durch die tatsächlichen Geräusche ihrer Umgebung [@vasulka_steinas_1977] Somit könnte dieses Werk als eine Frühform von künstlerischer Sonifciation verstanden werden. Unter den Begriff der Sonification fällt unter anderem die auditive Darstellung von Daten um ein Verständnis für diese zu entwickeln welches anders, oder sogar tiefer ist, als jenes welches beim Ansehen von Visualisierungen dieser Daten entstehen würde. [@worall_sonification_2019] In diesem Fall werden keine digitalen Daten verarbeitet, so kann jedoch ein Analoges Videosignal als äquivalent zu einem Datenstrom gesehen werden welcher in *Orbital Obsessions* auf direktem Wege zu einem akustischen Signal umgewandelt wird. Hierdurch bekommt die akustische Information eine Qualität welche die visuelle Wahrnehmung eines Bildes erweitert.
 
 ### Bill Fontana
 
@@ -62,6 +62,15 @@ Das Dekonstruieren unseres Zeitverständnisses ist nur ein Bespiel wie Fontanas 
 
 ## Aktuelle Entwicklungen in Sound Art
 
-## Sonic Interaction Design
+### Sonic Interaction Design
 
-Sonic Interaction Design ist ein aktuell entstehendes Feld, welches zum Ziel hat Klang als gleich- oder höherwertigen Kanal für die Kommunikation zwischen Mensch und Maschine zu etablieren. Hierfür zielt es darauf ab, die kulturelle Barriere des Verständnisses von Geräuschen als Lärm zu überwinden und ihre intrinsischen Werte zu nutzen. Spätestens seit der Industriellen Revolution sind wir umgeben von Geräuschen die von Technologie produziert wird, (siehe \ref{italienische-futuristen}) jedoch werden diese meist als Nebenprodukt verstanden und nicht als weg der Kommunikation.
+Sonic Interaction Design ist ein aktuell entstehendes Feld, welches zum Ziel hat Klang als gleich- oder höherwertigen Kanal für die Kommunikation zwischen Mensch und Maschine zu etablieren. Hierfür zielt es darauf ab, die kulturelle Barriere des Verständnisses von Geräuschen als Lärm zu überwinden und ihre intrinsischen Werte zu nutzen. Spätestens seit der Industriellen Revolution sind wir umgeben von Geräuschen die von Technologie produziert werden, jedoch werden diese meist als Nebenprodukt verstanden und nicht als weg der Kommunikation. [@rocchesso_sonic_2008 S. 1f]
+
+Sound Design spielt bereits in manchen Bereichen der Produktentwicklung eine große Rolle. Ein bekanntes Beispiel hierfür ist die Automobilindustrie, welche Sounddesign unter anderem nutzt um die Designidentität ihrer Produkte zu stärken. [@rocchesso_sonic_2008 S. 3] Dieses Feld fällt zusammen mit zwei weiteren unter den Begriff des Sonic Interaction Designs.
+
+Hinzu kommt die wahrnehmungspsychologische, kognitive und emotionale Erforschung von auditiven Interaktionen sowie die bereits in \ref{steina-vasulka} ([*Steina Vasulka*](#steina-vasulka)) erwähnte Sonification, die Vertonung von Daten. [@pulkki_communication_2016 S. 386]
+
+
+
+
+
