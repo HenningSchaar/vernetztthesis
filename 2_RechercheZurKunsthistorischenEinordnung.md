@@ -50,15 +50,17 @@ Das Dekonstruieren unseres Zeitverständnisses ist nur ein Bespiel wie Fontanas 
 
 
 
-### Steina & Woody Vasulka
+### Steina Vasulka
 
 Steina Vasulka, geboren als Steinunn Briem Bjarnadottir in Reykjavik, Island und Bohuslav Vasulka, bekannt als Woody, geboren in Brno, Tschechoslovakei sind ein Ehepaar welches 1964 in die Vereinigten Staaten von Amerika Immigrierte um dort in der Filmindustrie zu arbeiten. Zunächst handelte es sich bei ihren Werken um klassische Dokumentationen, ihre späteren Werke jedoch waren experimenteller und künstlerischer. Diese machten die beiden zu bedeutenden Ton- Bild- und Videokünstlern ihrer Zeit. [@bonin_steina_2003]
 
-Steina Vasulka ist für Werke bekannt welche eine Schnittstelle zwischen Video und Ton herstellen. Ein Beispiel für ihre medienübergreifende Arbeitsweise ist das Stück *Violin Power*, in welchem sie beim Spielen der Violine zu sehen ist. Das Videosignal wird durch das akustische Signal ihrer Violine moduliert. Ähnlich zu der Herangehensweise in der Kompositionstechnik der *Musique Concrète* entstanden Werke wie diese durch experimentelles arbeiten mit neuer Technik um die Möglichkeiten eines Mediums auszuschöpfen. 
+Die beiden werden auf Grund ihrer gemeinsamen Arbeit häufig zusammen gennant doch im folgenden geht es insbesondere um Steina Vasulka, da ihre Werke durch die Nutzung von intermedialen Techniken maßgebliche Grundsteine der Klangkunst gelegt haben, welche relevant für diese Arbeit sind.
+
+Steina Vasulka ist für Werke bekannt welche eine Schnittstelle zwischen Video und Ton herstellen. Ein Beispiel für ihre medienübergreifende Arbeitsweise ist das Stück *Violin Power*, in welchem sie beim Spielen der Violine zu sehen ist. Das Videosignal wird durch das akustische Signal ihrer Violine moduliert.  [@spielmann_steina_2004] Ähnlich zu der Herangehensweise in der Kompositionstechnik der *Musique Concrète* entstanden Werke wie diese durch experimentelles arbeiten mit neuer Technik um die Möglichkeiten eines Mediums auszuschöpfen. 
 
 Anders allerdings als bei  *Musique Concrète* haben Steinas Werke einen performativen Charakter welcher durch ihre Erfahrungen als klassische Konzertmusikerin entstand. Durch das spielen eines Musikinstrumentes zur Herstellung von Bildeffekten zeigt Steina auf, welche Kapazität Video als interaktives Medium innewohnt. [@spielmann_video_2005 S. 3] 
 
-In ihrer Arbeit  *Orbital Obsessions* nutzt sie zur Herstellung des Klangs das analoge Videosignal, begleitet durch die tatsächlichen Geräusche ihrer Umgebung [@vasulka_steinas_1977] Somit könnte dieses Werk als eine Frühform von künstlerischer Sonifciation verstanden werden. Sonification ist die auditive Darstellung von Daten um ein Verständnis für diese zu entwickeln welches anders, oder sogar tiefer ist, als jenes welches beim Ansehen von Visualisierungen dieser Daten entstehen würde. [@worall_sonification_2019]
+In ihrer Arbeit  *Orbital Obsessions* nutzt sie zur Herstellung des Klangs das analoge Videosignal, begleitet durch die tatsächlichen Geräusche ihrer Umgebung [@vasulka_steinas_1977] Somit könnte dieses Werk als eine Frühform von künstlerischer Sonifciation verstanden werden. Sonification ist die auditive Darstellung von Daten um ein Verständnis für diese zu entwickeln welches anders, oder sogar tiefer ist, als jenes welches beim Ansehen von Visualisierungen dieser Daten entstehen würde. [@worall_sonification_2019] In diesem Fall werden keine digitalen Daten verarbeitet, so kann jedoch ein Analoges Videosignal als äquivalent zu einem Datenstrom gesehen werden welcher in *Orbital Obsessions* auf direktem Wege zu einem akustischen Signal umgewandelt wird. Hierdurch bekommt die akustische Information eine Qualität welche die visuelle Wahrnehmung eines Bildes erweitert.
 
 
 
