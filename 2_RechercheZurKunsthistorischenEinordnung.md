@@ -4,7 +4,7 @@
 
 ## Entstehung von Sound Art
 
-### Italienische Futuristen
+### Italienische Futuristen {#italienische-futuristen}
 
 Eine der ersten Nennungen von Sound Art findet sich im Manifest des dem Futurismus zugeordneten Malers Luigi Russolo *L’arte dei rumori* (Die Kunst der Geräusche). [@russolo_art_1967]
 
@@ -36,20 +36,6 @@ Parallelen zu der Kunstform des *Objet Trouvé* sind in der Nutzung von Geräusc
 
 Obwohl der Begriff der Site Specificity erst in den 1970ern geprägt wurde ist auch ein *Objet Trouvé* definiert durch die Parameter von denen das ausgestellte Werk abhängig ist. So handelt es sich bei einem der Populärsten Werke dieser Art um ein Pissoir welches von Marcel Duchamp signiert und ausgestellt wurde. [@gayford_duchamps_2008] Ein Pissoir ist im allgemeinen Kunstverständnis zu diesem Zeitpunkt nicht als Kunstwerk zu betrachten doch durch den Akt des Signierens und Austellens bezieht es sich auf die Tradition der Bildenden Kunst. Durch dieses Zusammenspiel von Objekt und Umgebung entsteht die künstlerische Idee schließlich in den Gedanken des Betrachters.
 
-### Bill Fontana
-
-Bill Fontana ist ein US-Amerikanischer Künstler welcher seit 1976 Klanginstallationen herstellt. Was ihn von vielen anderen Klangkünstlern unterscheidet ist, dass er ausschließlich aufgenommene statt synthetische Geräusche  in seinen Werken verwendet. [@fontana_borrowed_1996] 
-
-Seine Klanginstallationen bezeichnet er selbst als Klangskulpturen, da diese keinen Anfang oder Ende haben sondern wie physikalische Objekte kontinuierlich existieren. Oft sollen seine Werke den Betrachter auf dessen Modus des Zuhörens aufmerksam machen indem sie akustische Umgebungen ohne Visuelle Indikatoren maßgeblich Verändern. 
-
-Fontanas Definition des Musikbegriffs sucht nicht nach bestimmten Klängen, einer bestimmten Form oder einer speziellen Geste oder Umgebung in der diese Stattfinden. Er definiert Musik stattdessen in dem geistigen Zustand des Zuhörers. Musik ist also nicht das was von einem Orchester oder einem Lautsprecher abgestrahlt wird, vielmehr ist es die Art des Hörens, mit welchem der Zuhörer das akustische Signal aufnimmt. Somit kann Musik überall erfahren werden wo ein Geräusch stattfindet. Auf die Möglichkeit des musikalischen Hörens von typischerweise als unmusikalisch empfundenen  Situationen verweist Fontana mit seinen Skulpturen. [@cotter_articulate_2018]
-
-In *Distant Trains* von 1984 platzierte er Mikrofone im Kölner Hauptbahnhof, der zu diesem Zeitpunkt verkehrsreichste Bahnhof in Europa, und übertrug die Klänge in die Ruine des durch den zweiten Weltkrieg zerstörten Anhalter Bahnhofs in Berlin, der vor dem Krieg der verkehrsreichste Bahnhof Europas war. [@fontana_borrowed_1996]  Die belebte Atmosphäre in der Ruine erzeugt einen Bruch indem es die akustische Wahrnehmung in eine Vergangene Zeit zurückversetzt und sie damit von den restlichen Sinnen sowohl räumlich als auch zeitlich trennt. 
-
-Das Dekonstruieren unseres Zeitverständnisses ist nur ein Bespiel wie Fontanas sogenannten *Live Listening Networks* konzeptuell mit dem Transportieren von akustischen Räumen umgeht. Seine Werke dieser Art nutzen verschiedene Übertragungsmethoden um Geräusche von einem Abhörpunkt zu einem Zuhörpunkt zu übertragen. Diese Übertragung kann den Zielort in seiner visuellen Wirkung über auditive Assoziationen verändern, den Hörradius bis zum sichtbaren Horizont erweitern, oder Assoziationen aus der Akustische Konditionierung der Betrachter hervorrufen. [@fontana_bill_nodate]
-
-
-
 ### Steina Vasulka
 
 Steina Vasulka, geboren als Steinunn Briem Bjarnadottir in Reykjavik, Island und Bohuslav Vasulka, bekannt als Woody, geboren in Brno, Tschechoslovakei sind ein Ehepaar welches 1964 in die Vereinigten Staaten von Amerika Immigrierte um dort in der Filmindustrie zu arbeiten. Zunächst handelte es sich bei ihren Werken um klassische Dokumentationen, ihre späteren Werke jedoch waren experimenteller und künstlerischer. Diese machten die beiden zu bedeutenden Ton- Bild- und Videokünstlern ihrer Zeit. [@bonin_steina_2003]
@@ -62,7 +48,20 @@ Anders allerdings als bei  *Musique Concrète* haben Steinas Werke einen perform
 
 In ihrer Arbeit  *Orbital Obsessions* nutzt sie zur Herstellung des Klangs das analoge Videosignal, begleitet durch die tatsächlichen Geräusche ihrer Umgebung [@vasulka_steinas_1977] Somit könnte dieses Werk als eine Frühform von künstlerischer Sonifciation verstanden werden. Sonification ist die auditive Darstellung von Daten um ein Verständnis für diese zu entwickeln welches anders, oder sogar tiefer ist, als jenes welches beim Ansehen von Visualisierungen dieser Daten entstehen würde. [@worall_sonification_2019] In diesem Fall werden keine digitalen Daten verarbeitet, so kann jedoch ein Analoges Videosignal als äquivalent zu einem Datenstrom gesehen werden welcher in *Orbital Obsessions* auf direktem Wege zu einem akustischen Signal umgewandelt wird. Hierdurch bekommt die akustische Information eine Qualität welche die visuelle Wahrnehmung eines Bildes erweitert.
 
+### Bill Fontana
 
+Bill Fontana ist ein US-Amerikanischer Künstler welcher seit 1976 Klanginstallationen herstellt. Was ihn von vielen anderen Klangkünstlern unterscheidet ist, dass er ausschließlich aufgenommene statt synthetische Geräusche  in seinen Werken verwendet. [@fontana_borrowed_1996] 
+
+Seine Klanginstallationen bezeichnet er selbst als Klangskulpturen, da diese keinen Anfang oder Ende haben sondern wie physikalische Objekte kontinuierlich existieren. Oft sollen seine Werke den Betrachter auf dessen Modus des Zuhörens aufmerksam machen indem sie akustische Umgebungen ohne Visuelle Indikatoren maßgeblich Verändern. 
+
+Fontanas Definition des Musikbegriffs sucht nicht nach bestimmten Klängen, einer bestimmten Form oder einer speziellen Geste oder Umgebung in der diese Stattfinden. Er definiert Musik stattdessen in dem geistigen Zustand des Zuhörers. Musik ist also nicht das was von einem Orchester oder einem Lautsprecher abgestrahlt wird, vielmehr ist es die Art des Hörens, mit welchem der Zuhörer das akustische Signal aufnimmt. Somit kann Musik überall erfahren werden wo ein Geräusch stattfindet. Auf die Möglichkeit des musikalischen Hörens von typischerweise als unmusikalisch empfundenen  Situationen verweist Fontana mit seinen Skulpturen. [@cotter_articulate_2018]
+
+In *Distant Trains* von 1984 platzierte er Mikrofone im Kölner Hauptbahnhof, der zu diesem Zeitpunkt verkehrsreichste Bahnhof in Europa, und übertrug die Klänge in die Ruine des durch den zweiten Weltkrieg zerstörten Anhalter Bahnhofs in Berlin, der vor dem Krieg der verkehrsreichste Bahnhof Europas war. [@fontana_borrowed_1996]  Die belebte Atmosphäre in der Ruine erzeugt einen Bruch indem es die akustische Wahrnehmung in eine Vergangene Zeit zurückversetzt und sie damit von den restlichen Sinnen sowohl räumlich als auch zeitlich trennt. 
+
+Das Dekonstruieren unseres Zeitverständnisses ist nur ein Bespiel wie Fontanas sogenannten *Live Listening Networks* konzeptuell mit dem Transportieren von akustischen Räumen umgeht. Seine Werke dieser Art nutzen verschiedene Übertragungsmethoden um Geräusche von einem Abhörpunkt zu einem Zuhörpunkt zu übertragen. Diese Übertragung kann den Zielort in seiner visuellen Wirkung über auditive Assoziationen verändern, den Hörradius bis zum sichtbaren Horizont erweitern, oder Assoziationen aus der Akustische Konditionierung der Betrachter hervorrufen. [@fontana_bill_nodate]
 
 ## Aktuelle Entwicklungen in Sound Art
 
+## Sonic Interaction Design
+
+Sonic Interaction Design ist ein aktuell entstehendes Feld, welches zum Ziel hat Klang als gleich- oder höherwertigen Kanal für die Kommunikation zwischen Mensch und Maschine zu etablieren. Hierfür zielt es darauf ab, die kulturelle Barriere des Verständnisses von Geräuschen als Lärm zu überwinden und ihre intrinsischen Werte zu nutzen. Spätestens seit der Industriellen Revolution sind wir umgeben von Geräuschen die von Technologie produziert wird, (siehe \ref{italienische-futuristen}) jedoch werden diese meist als Nebenprodukt verstanden und nicht als weg der Kommunikation.

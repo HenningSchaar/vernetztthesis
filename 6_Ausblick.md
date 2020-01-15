@@ -3,7 +3,7 @@
 ## Mögliche Erweiterungen
 
 ## Mögliche Ausstellungsorte
- .
- \newpage
- 
-# Literaturverzeichnis
+
+ \pagebreak
+
+# Literaturverzeichnis 
