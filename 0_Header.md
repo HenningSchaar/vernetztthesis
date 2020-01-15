@@ -25,6 +25,7 @@ header-includes: |
  \usepackage{ragged2e}
  \usepackage{tocloft}
  \usepackage[utf8]{inputenc}
+ \usepackage[export]{adjustbox}
  \usepackage{graphicx}
  \usepackage[font=small,labelfont=bf]{caption}
  \usepackage[rightcaption]{sidecap}
