@@ -10,7 +10,7 @@ geometry:
 - top=2cm
 - bottom=2cm
 - bindingoffset=0.5cm
-bibliography: ZoteroLibrary.bib
+bibliography: Meine Bibliothek.bib
 csl: din-1505-2.csl
 date: \today
 header-includes: |
@@ -27,6 +27,7 @@ header-includes: |
  \usepackage[utf8]{inputenc}
  \usepackage[export]{adjustbox}
  \usepackage{graphicx}
+ \graphicspath{ {Graphics/} }
  \usepackage[font=small,labelfont=bf]{caption}
  \usepackage[rightcaption]{sidecap}
  \usepackage[right]{eurosym}
