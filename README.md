@@ -10,6 +10,21 @@ pandoc -F pandoc-citeproc --csl chicago-author-date-footnotes.csl -s 0_Header.md
 Dependencies:
 
 - Pandoc
+
+  ```bash
+  brew install pandoc
+  ```
+
 - Latex
-- PDF-Latex
+
+  ```bash
+  brew cask install mactex-no-gui
+  ```
+
 - Pandoc-Citeproc
+
+  ```bash
+  brew cask install pandoc-citeproc
+  ```
+
+  
