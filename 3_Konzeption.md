@@ -48,7 +48,9 @@ Sogenannte *MEMS* (microelectromechanical systems) Beschleunigungssensoren könn
 
 Nachdem jedoch klar wurde, dass das Anbringen von technischen Geräten an das Gleis unter §315 StGB: "Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr" strafbar sein könnte, wurden alternativen gesucht.
 
-### Ansätze mit Webcrawling
+### Ansätze mit Webscraping
+
+Webscraping oder Screenscraping emuliert die Benutzung einer Website durch ein automatisiertes Programm, mit dem Ziel Daten aus dieser Website zu extrahieren. [@ball_screen-scraping_2003]
 
 ### Ansätze zur Visualisierung
 
