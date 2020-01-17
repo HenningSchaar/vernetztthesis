@@ -10,15 +10,17 @@
 
 ### Algorithmen & Klangästhetik
 
-## Webcrawling & P5js
+## Webscraping & P5js
 
 ### Benutzte Datenquellen & APIs
 
 ### P5 Programmbeschreibung
 
-### Kommunikation
+### Kommunikation {#webscraping-kommunikation}
 
-## Max
+UDP ist ein Netzwerk Nachrichtenprotokoll, welches auf Handshakes verzichtet und deswegen einfach zu nutzen ist [@fairhurst_unicast_2008]
+
+## Max {#max}
 
 ### Kommunikation
 
