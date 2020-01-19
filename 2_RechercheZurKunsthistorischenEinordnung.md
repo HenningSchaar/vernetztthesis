@@ -68,7 +68,7 @@ Sonic Interaction Design ist ein aktuell entstehendes Feld, welches zum Ziel hat
 
 Sound Design spielt bereits in manchen Bereichen der Produktentwicklung eine große Rolle. Ein bekanntes Beispiel hierfür ist die Automobilindustrie, welche Sounddesign unter anderem nutzt um die Designidentität ihrer Produkte zu stärken. [@rocchesso_sonic_2008 S. 3] Dieses Feld fällt zusammen mit zwei weiteren unter den Begriff des Sonic Interaction Designs.
 
-Hinzu kommt die wahrnehmungspsychologische, kognitive und emotionale Erforschung von auditiven Interaktionen sowie die bereits in \ref{steina-vasulka} ([*Steina Vasulka*](#steina-vasulka)) erwähnte Sonification, die Vertonung von Daten. [@pulkki_communication_2016 S. 386]
+Hinzu kommt die wahrnehmungspsychologische, kognitive und emotionale Erforschung von auditiven Interaktionen sowie die bereits in \ref{steina-vasulka} ([*Steina Vasulka*](#steina-vasulka) S. \pageref{steina-vasulka}) erwähnte Sonification, die Vertonung von Daten. [@pulkki_communication_2016 S. 386]
 
 ### Aural Architecture
 
@@ -76,5 +76,5 @@ Im Kontext der Annäherung von zeitgenössischer Architektur und Kunst entstand 
 
 Insbesondere seit 2010 sind in mehreren Großstädten Klangkunstinitiativen enstanden, welche öffentliche Klanginstallationen und akustische Planung, welche über das reduzieren von ungewünschten Geräuschen hinaus geht, fördern. [@ouzounian_recomposing_2016 S. 2] Durch das öffentlich Werden von Klangkunst, muss diese sich schließlich auch in die Lokalpolitik und Bürokratie der Stadtverwaltungen einbinden womit *Aural Architecture* eine ähnliche Verbindung zwischen Kunst und Politik herstellen muss wie Architektur und das entwickeln von öffentliche Infrastruktur.
 
-Einige von Bill Fontanas (\ref{bill-fontana} [Bill Fontana](#bill-fontana)) Werken wie *Landscape Sculpture with Foghorns* können auch als *Aural Architecture* verstanden werden, da sie den Klang eines öffentlichen Ortes modifizieren. Bill Fontana appelliert außerdem an Architekten, Klangkünstler stärker in die Planung ihrer Gebäude mit einzubeziehen. [@carre_dart_-_interviewer_unbekannt_interview_2014 5:30]
+Einige von Bill Fontanas (\ref{bill-fontana} [Bill Fontana](#bill-fontana) S. \pageref{bill-fontana}) Werken wie *Landscape Sculpture with Foghorns* können auch als *Aural Architecture* verstanden werden, da sie den Klang eines öffentlichen Ortes modifizieren. Bill Fontana appelliert außerdem an Architekten, Klangkünstler stärker in die Planung ihrer Gebäude mit einzubeziehen. [@carre_dart_-_interviewer_unbekannt_interview_2014 5:30]
 
