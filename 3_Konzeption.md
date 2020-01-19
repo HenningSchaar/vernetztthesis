@@ -82,11 +82,16 @@ Henning Schaar lebte in seiner Schulzeit 4 Jahre lang in einer Fernbeziehung nac
 
 Diese räumlich verteilte Lebensweise verändert nicht nur das Reiseverhalten, auch die Selbstwahrnehmung wird durch sie beeinflusst. In jedem dieser Orte gibt es andere soziale Kreise, welche sich nicht oder kaum überschneiden und das Selbstbild einer Person wird durch sozial geteilte Merkmale und Gruppenmitgliedschaften maßgeblich beeinflusst. [@rempe_zur_2012 S. 31f] So wird die Zugfahrt zu einem Prozess welcher in diesem Fall nicht nur den Aufenthaltsort einer Person ändert, sondern schließlich auch die Wahrnehmung der eigenen Person.
 
-Aus diesem Gefühl des Reisens entstand ein Interesse an den Gefühlen die Personen beim Nutzen von öffentlichen Verkehrsmitteln haben, und diese in einer Installation darzustellen.
+Aus diesem Gefühl des Reisens entstand ein Interesse an den Gefühlen die Personen beim Nutzen von öffentlichen Verkehrsmitteln haben um diese in einer Installation darzustellen.
 
 #### Befragungen
 
-Um über den eigenen Erfahrungshorizont hinauszugehen, wurden formlose Befragungen von Kommilitonen, Freunden und Familie durchgeführt. Es wurde nach 
+Um über den eigenen Erfahrungshorizont hinauszugehen, wurden formlose Befragungen von Kommilitonen, Freunden und Familie durchgeführt. Es wurde nach Gründen und Häufigkeit gefragt, sowie welcher emotionaler Bezug zu Abfahrts- und Ankunftsort besteht, und wie sich diese im Laufe der Reise wandeln. [@schaar_gedachtnisprotokoll_2019]
+
+Die befragten in drei Kategorien unterteilt:
+
+- **20-45 Minuten, mehrmals die Woche:** Die Person nimmt das Fahrzeug größtenteils in seiner Funktion die Hürde der Distanz zu verringern wahr. Der Innenraum des Zuges wird als Teil des öffentlichen Raumes empfunden. Es ist kein Ort an dem man sich tatsächlich aufhält, sondern vielmehr eine Art Wartezimmer. Die Reise wird als Zeitlich homogen wahrgenommen.
+- **1-2 Stunden, einmal die Woche:** Das Fahrzeug wird ähnlich wie ein Gebäude wahrgenommen in welchem man sich temporär einrichtet. Arbeit oder Unterhaltung der man auch zu Hause nachgehen würde wird mitgebracht. Personen die in diese Kategorie fallen berichteten von *FOMO* (fear of missing out), also ein Gefühl ein wichtiges oder erfüllendes Ereignis zu verpassen welches an dem Ort, an dem sie sich gerade nicht aufhalten erlebt werden könnte. [@bosker_fear_2012]
 
 #### Inspiration aus kunsthistorischer Recherche
 
