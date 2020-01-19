@@ -78,17 +78,17 @@ Im folgenden wird das Konzept vorgestellt, welches das Ergebnis der Experimente 
 
 #### Persönliche Beweggründe
 
-Henning Schaar lebte in seiner Schulzeit 4 Jahre lang in einer Fernbeziehung nach Mannheim, von Karlsruhe eine Entfernung von ca. einer Zugstunde. Diese wurde dann schließlich durch eine gemeinsame Wohnung in Mannheim aufgelöst. Nicht viel später Jedoch begann das Studium in Dieburg, welches wieder über eine Zugstunde entfernt war. Nach Ende der Beziehung gab es einen Wohnortwechsel nach Darmstadt, so dass das Studium nun näher war, doch gibt es weiterhin Freundschaften in Hamburg, einen Arbeitgeber in Stuttgart und eine Band und Familie in Karlsruhe, weswegen Zugfahren weiterhin zum Alltag gehören.
+Henning Schaar lebte in seiner Schulzeit 4 Jahre lang in einer Fernbeziehung nach Mannheim, von Karlsruhe eine Entfernung von ca. einer Zugstunde. Diese wurde dann schließlich durch eine gemeinsame Wohnung in Mannheim aufgelöst. Nicht viel später Jedoch begann das Studium in Dieburg, welches wieder über eine Zugstunde entfernt war. Nach Ende der Beziehung gab es einen Wohnortwechsel nach Darmstadt, so dass das Studium nun näher war, doch gibt es weiterhin Freundschaften in Hamburg, einen Arbeitgeber in Stuttgart und eine Band und Familie in Karlsruhe, weswegen Zugfahrten weiterhin zum Alltag gehören.
 
 Diese räumlich verteilte Lebensweise verändert nicht nur das Reiseverhalten, auch die Selbstwahrnehmung wird durch sie beeinflusst. In jedem dieser Orte gibt es andere soziale Kreise, welche sich nicht oder kaum überschneiden und das Selbstbild einer Person wird durch sozial geteilte Merkmale und Gruppenmitgliedschaften maßgeblich beeinflusst. [@rempe_zur_2012 S. 31f] So wird die Zugfahrt zu einem Prozess welcher in diesem Fall nicht nur den Aufenthaltsort einer Person ändert, sondern schließlich auch die Wahrnehmung der eigenen Person.
 
-Aus diesem Gefühl des Reisens entstand ein Interesse an den Gefühlen die Personen beim Nutzen von öffentlichen Verkehrsmitteln haben um diese in einer Installation darzustellen.
+Aus diesen komplexen Gefühlen welche durch das Reisen hervorgebracht werden entstand ein generelles Interesse an den Gefühlen die Personen beim Nutzen von öffentlichen Verkehrsmitteln haben und der Wunsch diese Künstlerisch festzuhalten.
 
 #### Befragungen
 
-Um über den eigenen Erfahrungshorizont hinauszugehen, wurden formlose Befragungen von Kommilitonen, Freunden und Familie durchgeführt. Es wurde nach Gründen und Häufigkeit gefragt, sowie welcher emotionaler Bezug zu Abfahrts- und Ankunftsort besteht, und wie sich diese im Laufe der Reise wandeln. [@schaar_gedachtnisprotokoll_2019]
+Um über den eigenen Erfahrungshorizont hinauszugehen, wurden formlose Befragungen von Kommilitonen, Freunden und Familie durchgeführt. Es wurde nach Gründen und Häufigkeit der Nutzung gefragt, sowie welcher emotionaler Bezug zu Abfahrts- und Ankunftsort besteht, und wie sich diese im Laufe der Reise wandeln. [@schaar_gedachtnisprotokoll_2019]
 
-Die befragten in drei Kategorien unterteilt:
+Anhand der Antworten wurden die Befragten in drei Kategorien unterteilt:
 
 - **20-45 Minuten, mehrmals die Woche:** Die Person nimmt das Fahrzeug größtenteils in seiner Funktion die Hürde der Distanz zu verringern wahr. Der Innenraum des Zuges wird als Teil des öffentlichen Raumes empfunden. Es ist kein Ort an dem man sich tatsächlich aufhält, sondern vielmehr eine Art Wartezimmer. Die Reise wird als Zeitlich homogen wahrgenommen.
 - **1-2 Stunden, einmal die Woche:** Das Fahrzeug wird ähnlich wie ein Gebäude wahrgenommen in welchem man sich temporär einrichtet. Arbeit oder Unterhaltung der man auch zu Hause nachgehen würde wird mitgebracht. Personen die in diese Kategorie fallen berichteten von *FOMO* (fear of missing out), also ein Gefühl ein wichtiges oder erfüllendes Ereignis zu verpassen welches an dem Ort, an dem sie sich gerade nicht aufhalten erlebt werden könnte. [@bosker_fear_2012]
