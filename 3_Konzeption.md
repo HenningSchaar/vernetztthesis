@@ -2,7 +2,7 @@
 
 # Konzeption
 
-Wie in der [Einleitung](#einleitung)  (\ref{einleitung}) erwähnt, stand am Anfang der Arbeit an der Installation, der Wunsch das Schienennetz als akustischen Raum darzustellen. Hieraus entstand die Idee, diese Vertonung anhand der Gefühle von Zugreisenden zu orientieren. Es wurde für die Entwicklung ein experimenteller Ansatz gewählt, da sich die Komposition an bereits gegebene Inputs, den Zugverkehr an dem gewählten Ort, anpassen muss.
+Wie in der [Einleitung](#einleitung)  (\ref{einleitung} S. \pageref{einleitung}) erwähnt, stand am Anfang der Arbeit an der Installation, der Wunsch das Schienennetz als akustischen Raum darzustellen. Hieraus entstand die Idee, diese Vertonung anhand der Gefühle von Zugreisenden zu orientieren. Es wurde für die Entwicklung ein experimenteller Ansatz gewählt, da sich die Komposition an bereits gegebene Inputs, den Zugverkehr an dem gewählten Ort, anpassen muss.
 
 ## Experimente und deren Ergebnisse
 
@@ -11,11 +11,11 @@ Wie in der [Einleitung](#einleitung)  (\ref{einleitung}) erwähnt, stand am Anfa
 \begin{figure}[h]
 \centering
 \includegraphics[width=7cm]{mikroAnSchiene}
-\break file:///Users/henningschaar/Dropbox/Schule/NwT/Micro%20Controller/Eierwirbraucheneier.bs1 
+\break
 \caption{Kontaktmikrofon an stillgelegtem Gleis}
 \end{figure}
 
-Zunächst bestand der Wunsch die Installation ähnlich wie [Bill Fontanas](#bill-fontana) (\ref{bill-fontana}, S. \pageref{bill-fontana}) Klangskulpturen zu gestalten. Es sollten portable Stationen entwickelt werden welc file:///Users/henningschaar/Dropbox/Schule/NwT/Micro%20Controller/Eierwirbraucheneier.bs1 he mit einem Kontaktmikrofon das Akustische Signal der Schiene über LTE das Audiosignal an einen Ausstellungsraum per Livestream übertragen sollten. Dafür wurde folgende Hardware geplant:
+Zunächst bestand der Wunsch die Installation ähnlich wie [Bill Fontanas](#bill-fontana) (\ref{bill-fontana}, S. \pageref{bill-fontana}) Klangskulpturen zu gestalten. Es sollten portable Stationen entwickelt werden welche mit einem Kontaktmikrofon das Akustische Signal der Schiene über LTE das Audiosignal an einen Ausstellungsraum per Livestream übertragen sollten. Dafür wurde folgende Hardware geplant:
 
 | Kategorie       | Produkt                           | Preis (ca.) |
 | --------------- | --------------------------------- | ----------- |
@@ -91,9 +91,12 @@ Um über den eigenen Erfahrungshorizont hinauszugehen, wurden formlose Befragung
 Anhand der Antworten wurden die Befragten in drei Kategorien unterteilt:
 
 - **20-45 Minuten, mehrmals die Woche:** Die Person nimmt das Fahrzeug größtenteils in seiner Funktion die Hürde der Distanz zu verringern wahr. Der Innenraum des Zuges wird als Teil des öffentlichen Raumes empfunden. Es ist kein Ort an dem man sich tatsächlich aufhält, sondern vielmehr eine Art Wartezimmer. Die Reise wird als Zeitlich homogen wahrgenommen.
-- **1-2 Stunden, einmal die Woche:** Das Fahrzeug wird ähnlich wie ein Gebäude wahrgenommen in welchem man sich temporär einrichtet. Arbeit oder Unterhaltung der man auch zu Hause nachgehen würde wird mitgebracht. Personen die in diese Kategorie fallen berichteten von *FOMO* (fear of missing out), also ein Gefühl ein wichtiges oder erfüllendes Ereignis zu verpassen welches an dem Ort, an dem sie sich gerade nicht aufhalten erlebt werden könnte. [@bosker_fear_2012]
+- **1-2 Stunden, ca. einmal die Woche:** Das Fahrzeug wird ähnlich wie ein Gebäude wahrgenommen in welchem man sich temporär einrichtet. Arbeit oder Unterhaltung der man auch zu Hause nachgehen würde wird mitgebracht. Personen die unter diese Kategorie fallen berichteten von *FOMO* (fear of missing out), also ein Gefühl ein wichtiges oder erfüllendes Ereignis zu verpassen welches an dem Ort, an dem sie sich gerade nicht aufhalten erlebt werden könnte. [@bosker_fear_2012] Insbesondere wurde berichtet, dass die Reise sich grob in 5 Teile einteilen lässt: Zuerst das Gefühl des Abschieds und das verarbeiten dessen. Wenn dieses Gefühl schwindet, wird, oft in Vorfreude, darüber nachgedacht, was am Ankunftsort wartet. Als drittes kommt ein Gefühl des Zwischenzustandes auf, an dem manchmal ein Gefühl von Langeweile oder des nicht-Empfindens aufkommt. Vor Ende der Reise denken viele der Befragten nochmal zurück an den Abfahrtsort und was dort während ihrer Abwesenheit geschieht bevor sie sich schließlich auf die Ankunft vorbereiten und ein Gefühl des Erwartens oder des Aufbrechens über sie kommt.
+- **3-5 Stunden einmal alle 6-8 Wochen:** Anders als bei den beiden anderen Kategorien, antizipieren Reisende dieser Art die Reise schon weit im Voraus und das Reisegefühl stellt sich schon oft ein bis zwei Tage vor der tatsächlichen Reise ein. Das Fahrzeug wird ähnlich wie in der vorangehenden Kategorie als eine Art Gebäude wahrgenommen. Reisende dieser Kategorie, berichten nur selten von FOMO, da der Ankunftsort oft noch gar nicht oder lange nicht mehr besucht wurde und viele ungewöhnliche Erlebnisse bereithält. Oft wird die Zeit der Reise für Dinge genutzt für die im Alltag selten Zeit ist, wie zum Beispiel viel Zeit mit einem Buch zu verbringen. 
 
 #### Inspiration aus kunsthistorischer Recherche
+
+
 
 ### Inhaltliche Beschreibung
 
