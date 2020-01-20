@@ -86,7 +86,7 @@ Diese räumlich verteilte Lebensweise verändert nicht nur das Reiseverhalten, a
 
 Aus diesen komplexen Gefühlen welche durch das Reisen hervorgebracht wurden entstand ein generelles Interesse an den Gefühlen die Personen beim Nutzen von öffentlichen Verkehrsmitteln haben und der Wunsch diese Künstlerisch festzuhalten.
 
-#### Befragungen
+#### Befragungen {#befragungen}
 
 Um über den eigenen Erfahrungshorizont hinauszugehen, wurden formlose Befragungen von Kommilitonen, Freunden und Familie durchgeführt. Es wurde nach Gründen und Häufigkeit der Nutzung gefragt, sowie welcher emotionaler Bezug zu Abfahrts- und Ankunftsort besteht, und wie sich diese im Laufe der Reise wandeln. [@schaar_gedachtnisprotokoll_2019]
 
@@ -108,7 +108,7 @@ Auch die Idee des *Objet Trouvé* fand Verwendung in der Herstellung der Arbeit.
 
 Der Musikbegriff von Bill Fontana, der darauf beruht, dass Musik kein Akustisches Ereignis ist, sondern ein Modus des Zuhörens, geht Hand in Hand mit dem Gedanken von John Cage, den Zuhörer auf eben diesen Modus aufmerksam zu machen. Bei der Umsetzung der Installation werden diese Prinzipien genutzt um die Geräusche von Zügen durch Soundprocessing im allgemeinen Verständnis musikalischer zu gestalten, jedoch nur genug, um dem Zuhörer welcher eben dieses allgemeine Verständnis von Musik mitbringt darauf hinzuweisen, dass die Möglichkeit besteht diese Geräusche, die uns Umgeben und häufig als störend empfunden werden, als musikalisch zu verstehen.
 
-Als eine Art der *Sound Map* reiht sich *Vernetzt* in den aktuellen Trend der Aural Architecture ein, in dem es räumliche Wahrnehmung  und urbane Infrastruktur durch interaktiv gesteuerte Sonification musikalisch versteht und darstellt.
+Als eine Art *Sound Map* des Zugverkehrs reiht sich *Vernetzt* in den aktuellen Trend der *Aural Architecture* ein, in dem es räumliche Wahrnehmung  und urbane Infrastruktur durch interaktiv gesteuerte Sonification musikalisch versteht und darstellt.
 
 ### Inhaltliche Beschreibung
 
@@ -116,7 +116,14 @@ Als eine Art der *Sound Map* reiht sich *Vernetzt* in den aktuellen Trend der Au
 
 
 
-#### Personae und deren Geschichte
+#### Personae
+
+Aus den Befragungen entstanden zur Herstellung der Klangobjekte Personae. Der Begriff der Personae wird in diesem Fall als Darstellung einer Sammlung derer Eigenschaften einer fiktiven Person genutzt welche von außen ersichtlich sind. Sie sind stellvertretend für Eigenschaften die in fast jedem Menschen gefunden werden können und stellen als ganzes nur eine Facette der Erlebniswelt einer tatsächlichen Person dar. Es gibt drei Personae, und jede hat ihr korrespondierendes Klangobjekt welches das Material ist, dass die Sonification in *Max* nutzt um die Klänge der Installation zu produzieren, welches Klangobjekt benutzt wird ist Abhängig vom Zugtypen, wobei die Zugtypen so gewählt wurden, dass sie zur Art der Reise der jeweiligen Persona passen. In der Ausstellung hängen außerdem Steckbriefe zu den Personae mit den korrespondierenden Farben der Züge in der Visualisierung um den Bezug zwischen Persona und gehörtem Klang herzustellen.
+
+- **Gabriel** ist das äquivalent zu dem mehrmals in der Woche Kurzstrecken zurücklegenden Zugreisenden. Er ist 35 Jahre alt und hat eine Festanstellung in einem mittelgroßen IT Betrieb ohne den Wunsch diese Position in absehbarer Zeit zu verlassen. Er beginnt und beendet seine Arbeit pünktlich, da ihm sein Familienleben mit seiner Frau und seinen zwei Töchtern, genau wie seine Mitgliedschaft im Lokalen Motorcrossverein sehr wichtig sind. Die Zeit im Zug zu und von seinem Arbeitsplatz nutzt er gerne um in Ruhe nachzudenken. Sein alter, ist ein Alter in dem die meisten Menschen einen mehr oder weniger gefestigtes Leben haben. Dieses Gefühl der Sicherheit wird weiterhin durch seine Vereinsmitgliedschaft, die Festanstellung und das Intakte Familienleben gestärkt. Ihn ihm kann der eigene Wunsch nach Sicherheit gespiegelt werden, jedoch nicht in einem Maße, dass sich einschränkend anfühlen soll. 
+  Er steht bei seinem Arbeitgeber für seine Interessen ein, auch wenn das bedeutet, dass er bei der nächsten Unternehmensverkleinerung eine höhere Gefahr läuft seine Anstellung zu verlieren. Außerdem geht er dem nicht ungefährlichen Hobby des Motorcross' nach. Das Motorcross fahren und seine Position als Informatiker machen seine Liebe zur Technik klar. Dies soll auf ein Ästhetikverständnis hinweisen welches sich zum Großteil auf geordnete Schönheit bezieht, jedoch nicht ausschließlich, da Motorcross als Freiluftsport auch auf eine Naturverbundenheit hinweist.
+- **Julia** entspricht der Zugreisenden, welche ca. einmal in der Woche 1-2 Stunden unterwegs ist. Sie ist 23 Jahre alt und strebt aktuell ihren Bachelor in Literaturwissenschaften an. Ihr Partner ist aktuell im Praxissemester etwas über eine Stunde entfernt von ihrem Wohnort weswegen sie am Wochenende häufig den Zug nimmt. Sie wohnt auch nur 2 Zugstunden von ihren Eltern entfernt welche sie meist in der Vorlesungsfreien Zeit aber auch an manchen Wochenenden besucht. Sie weiß noch nicht wo sie nach ihrem Bachelor hingehen wird. Ein Master in der gleichen Fachrichtung wäre eine Option aber sie interessiert sich neben Literaturwissenschaften für eine Ausbildung in Layout und Graphikdesign, da sie in ihrer Freizeit gerne zeichnet. Die Wahl des weiterführenden Ausbildungsortes wird erschwert dadurch, dass sie sowohl in der Nähe ihrer Famillie als auch ihres Partners bleiben möchte. 
+  Der Besucher kann in ihr die Unsicherheit von Wandel und einer ungewissen Zukunft nachempfinden. Jedoch steht sie gleichzeitig für den Wunsch nach Selbstverwirklichung, welcher in dieser Unsicherheit ermöglicht ist und durch ihre künstlerischen Anlagen in Literatur und Bildender Kunst verkörpert wird. Die Angst etwas zu verpassen und alle Bereiche des Lebens miteinander zu vereinen, ohne dabei viele Kompromisse eingehen zu müssen, findet sich in ihrem Abwägen über den neuen Wohnort in Abhängigkeit von Ausbildung, Familie und Liebe wieder. (*FOMO* vgl. \ref{befragungen} [*Befragungen*](#befragungen) S. \pageref{befragungen}) 
 
 #### Zwischenzustände
 
