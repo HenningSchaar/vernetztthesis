@@ -98,11 +98,23 @@ Anhand der Antworten wurden die Befragten in drei Kategorien unterteilt:
 
 #### Inspiration aus kunsthistorischer Recherche
 
+Wie sich die Geräuschkulisse die wir Menschen durch die Industrielle Revolution veränderte und wie dies unser aurikulare Wahrnehmung veränderte wurde durch die Studie der Italienischen Futuristen offensichtlich. Da der Schienenverkehr eine treibende Kraft der Industriellen Revolution war, konnte diese Assoziation bei der klanglichen Gestaltung nicht außer Acht gelassen werden. Beim erstellen der Klangobjekte, welcher zur Herstellung der interaktiven Sounds genutzt werden, wurde aus diesem Grund darauf geachtet, dass ein Bezug zu den Geräuschen des Zugverkehrs zu erkennen ist. 
 
+Das Publikum hat bei der Installation eine aktive Rolle bei der Entstehung der Klänge. So ist die Installation meist still, wenn es keine Interaktion durch den Besucher gibt. Hierdurch entsteht eine Verantwortung über die Klangerzeugung die zu einem großen Teil in den Händen des Publikums liegt. Ähnlich wie in Cages Werken, wird durch die Installation nur ein Rahmen geschaffen, in welchem das Publikum an der Entstehung eines Klangs teilhaben kann. Auch wird durch die Interaktion die Form des Zuhörens modifiziert. Denn wenn der Besucher die Verantwortung über die Erzeugung des Klangs annimmt, ist der Bezug zu den entstehenden Klängen eher vergleichbar mit jenem, welcher auch beim Ausüben eines Musikinstrumentes besteht als mit dem der beim anhören eines Konzertes herrscht. Anders als bei Cages populären stillen Werken allerdings, ist der Rahmen ein sehr fester, welcher zum Großteil von äußeren Faktoren, nur teilweise durch den Künstler und kaum durch das Publikum kontrolliert wird.
+
+Die Klangobjekte sind größtenteils durch das modifizieren von Aufnahmen von Zügen entstanden. Das modifizieren fand jedoch nicht nach einem geordneten Prinzip statt, sondern es wurde viel mehr mit einen Feedback-Loop aus zuhören, bewerten und verändern gearbeitet. Diese Arbeitsweise war zwar bereits vor Recherchieren der experimentellen Ansätze von *Musique Concrète* und Steina Vasulka bekannt, jedoch wurde eine höhere Sicherheit im Arbeiten nach diesem Prinzip durch die Kenntnis über die Bewährtheit dieser Methoden erreicht.
+
+Auch die Idee des *Objet Trouvé* fand Verwendung in der Herstellung der Arbeit. So handelt es sich nicht um einen fertigen Gegenstand welcher ausgestellt wird, jedoch ist die Grundsätzliche Idee, etwas Alltägliches durch den Prozess des Ausstellens zu einem Kunstwerk zu machen, grundlegend für die Installation. Die Benutzung öffentlicher Verkehrsmittel ist etwas mit dem die meisten Menschen in ihrem Alltag konfrontiert sind. Dem Schienenverkehr jedoch einen Klang zu geben und Ästhetisch darzustellen ist nicht der gewohnte Kontext und gibt dem Besucher dadurch die Möglichkeit seinen Bezug zu diesem neu zu definieren.
+
+Der Musikbegriff von Bill Fontana, der darauf beruht, dass Musik kein Akustisches Ereignis ist, sondern ein Modus des Zuhörens, geht Hand in Hand mit dem Gedanken von John Cage, den Zuhörer auf eben diesen Modus aufmerksam zu machen. Bei der Umsetzung der Installation werden diese Prinzipien genutzt um die Geräusche von Zügen durch Soundprocessing im allgemeinen Verständnis musikalischer zu gestalten, jedoch nur genug, um dem Zuhörer welcher eben dieses allgemeine Verständnis von Musik mitbringt darauf hinzuweisen, dass die Möglichkeit besteht diese Geräusche, die uns Umgeben und häufig als störend empfunden werden, als musikalisch zu verstehen.
+
+Als eine Art der *Sound Map* reiht sich *Vernetzt* in den aktuellen Trend der Aural Architecture ein, in dem es räumliche Wahrnehmung  und urbane Infrastruktur durch interaktiv gesteuerte Sonification musikalisch versteht und darstellt.
 
 ### Inhaltliche Beschreibung
 
 #### Reisegeschichten und Dramaturgie
+
+
 
 #### Personae und deren Geschichte
 
