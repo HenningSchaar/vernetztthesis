@@ -116,7 +116,9 @@ Als eine Art *Sound Map* des Zugverkehrs reiht sich *Vernetzt* in den aktuellen 
 
 #### Personae
 
-Aus den Befragungen entstanden zur Herstellung der Klangobjekte Personae. Der Begriff der Personae wird in diesem Fall als Darstellung einer Sammlung derer Eigenschaften einer fiktiven Person genutzt welche von außen ersichtlich sind. Sie sind stellvertretend für Eigenschaften die in fast jedem Menschen gefunden werden können und stellen als ganzes nur eine Facette der Erlebniswelt einer tatsächlichen Person dar. Es gibt drei Personae, und jede hat ihr korrespondierendes Klangobjekt welches das Material ist, dass die Sonification in *Max* nutzt um die Klänge der Installation zu produzieren, welches Klangobjekt benutzt wird ist Abhängig vom Zugtypen, wobei die Zugtypen so gewählt wurden, dass sie zur Art der Reise der jeweiligen Persona passen. In der Ausstellung hängen außerdem Steckbriefe zu den Personae mit den korrespondierenden Farben der Züge in der Visualisierung um den Bezug zwischen Persona und gehörtem Klang herzustellen.
+Aus den Befragungen entstanden zur Herstellung der Klangobjekte Personae. Der Begriff der Personae wird in diesem Fall als Darstellung einer Sammlung derer Eigenschaften einer fiktiven Person genutzt welche von außen ersichtlich sind. Sie sind stellvertretend für Eigenschaften die in fast jedem Menschen gefunden werden können und stellen als ganzes nur eine Facette der Erlebniswelt einer tatsächlichen Person dar. 
+
+Es gibt drei Personae, und jede hat ihr korrespondierendes Klangobjekt welches das Material ist, dass die Sonification in *Max* nutzt um die Klänge der Installation zu produzieren. Welches Klangobjekt benutzt wird ist Abhängig vom Zugtypen, wobei die Zugtypen so gewählt wurden, dass sie zur Art der Reise der jeweiligen Persona passen. In der Ausstellung hängen außerdem Steckbriefe zu den Personae mit den korrespondierenden Farben der Züge in der Visualisierung um den Bezug zwischen Persona und gehörtem Klang herzustellen. Im folgenden soll kurz beschrieben werden, welche Eigenschaften die Personae haben und welche Funktionen diese Eigenschaften in ihrem Verhältnis zu einem Besucher erfüllen:
 
 - **Gabriel** ist das äquivalent zu dem mehrmals in der Woche Kurzstrecken zurücklegenden Zugreisenden. Er ist 35 Jahre alt und hat eine Festanstellung in einem mittelgroßen IT Betrieb ohne den Wunsch diese Position in absehbarer Zeit zu verlassen. Er beginnt und beendet seine Arbeit pünktlich, da ihm sein Familienleben mit seiner Frau und seinen zwei Töchtern, genau wie seine Mitgliedschaft im Lokalen Motorcrossverein sehr wichtig sind. Die Zeit im Zug zu und von seinem Arbeitsplatz nutzt er gerne um in Ruhe nachzudenken. Sein alter, ist ein Alter in dem die meisten Menschen einen mehr oder weniger gefestigtes Leben haben. Dieses Gefühl der Sicherheit wird weiterhin durch seine Vereinsmitgliedschaft, die Festanstellung und das Intakte Familienleben gestärkt. Ihn ihm kann der eigene Wunsch nach Sicherheit gespiegelt werden, jedoch nicht in einem Maße, dass sich einschränkend anfühlen soll. 
   Er steht bei seinem Arbeitgeber für seine Interessen ein, auch wenn das bedeutet, dass er bei der nächsten Unternehmensverkleinerung eine höhere Gefahr läuft seine Anstellung zu verlieren. Außerdem geht er dem nicht ungefährlichen Hobby des Motorcross' nach. Das Motorcross fahren und seine Position als Informatiker machen seine Liebe zur Technik klar. Dies soll auf ein Ästhetikverständnis hinweisen welches sich zum Großteil auf geordnete Schönheit bezieht, jedoch nicht ausschließlich, da Motorcross als Freiluftsport auch auf eine Naturverbundenheit hinweist.
@@ -132,7 +134,26 @@ Aus den Befragungen entstanden zur Herstellung der Klangobjekte Personae. Der Be
 
 #### Nutzung von Lautsprechern
 
-#### Nutzung von Graphik
+Für den Aufbau wurde ein quadrophonischer Aufbau mit Subwoofer gewählt. Ein klassisches 5.1 Setup wurde in Erwägung gezogen, der Lautsprecheraufbau hat aber keinen Grund unsymmetrisch zu sein, da die Richtung der Leinwand nur optisch im Vordergrund steht, und keine besonderen Akustischen Impulse als von der Leinwand kommend verstanden werden sollen. 
+
+Der Subwoofer ist möglichst nah am Interaktionsinterface, damit dieser auch möglichst nah am Interagierenden Besucher ist. Diese Position wurde gewählt, weil der Tieftonanteil nicht ortbar sein soll, sondern nur eine unterstützende Funktion hat
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=7cm]{visualisierungp5}
+\break
+\caption{Screenshot eines Ausschnittes der Visualisierung in p5: Züge in Farben nach Typ, Haltestellen grau und Cursor weiß umrandet.}
+\end{figure}
+
+Die Klänge die von den Zügen erzeugt werden sollen so um den interagierenden Besucher verteilt sein, wie sie um den Cursor verteilt sind. Die Darstellung ist jedoch zweidimensional, weswegen die Räumliche Verteilung von der ZY Ebene auf der Projektionsfläche um 90° vom Besucher weggekippt wird, um auf der XY Ebene zu Liegen. 
+
+So wird der Quadrophonische Aufbau genutzt um die XY Ebene akustisch zu füllen. Es werden basierend auf der Distanz der Züge zum Cursor außerdem Halleffekte genutzt um die Illusion eines akustischen Raumes zu verbessern. 
 
 #### Raum als Medium für Schall
+
+Außerhalb des virtuellen akustischen Raumes gibt es allerdings noch den echten akustischen Raum in dem die Installation aufgebaut wird. 
+
+#### Nutzung von Graphik
+
+#### 
 

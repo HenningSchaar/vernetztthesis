@@ -36,5 +36,24 @@ UDP ist ein Netzwerk Nachrichtenprotokoll, welches auf Handshakes verzichtet und
 
 ### Komponenten
 
+Der Aufbau der Installation Besteht aus folgenden Elementen:
+
+- 4 full range Monitore auf Stativen
+- 1 Subwoofer
+- 1 Full HD Beamer + 1 HDMI Kabel
+- 1 168cm*200cm Leinwand
+- 1 100cm hohe Säule aus MDF mit eingelassenem Trackball + 1 USB-A Kabel
+- 1 Mac Mini mit *Max* und *p5js*
+- 1 Focusrite Scarlett 18i20 Audio Interface + 1 USB-C Kabel + 5 XLR zu TRS Kabeln
+
 ### Aufbau
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=12cm]{raumlayout}
+\break
+\caption{Raumlayout mit Lautsprecherpositionen}
+\end{figure}
+
+Der Mac Mini ist das Herz der Installation, auf ihm Laufen die beiden Software Komponenten die jeweils für Webscraping+Visualisierung und 
 
