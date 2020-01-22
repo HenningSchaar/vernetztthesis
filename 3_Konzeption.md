@@ -145,7 +145,7 @@ Der Subwoofer ist möglichst nah am Interaktionsinterface, damit dieser auch mö
 \caption{Screenshot eines Ausschnittes der Visualisierung in p5: Züge in Farben nach Typ, Haltestellen grau und Cursor weiß umrandet.}
 \end{figure}
 
-Die Klänge die von den Zügen erzeugt werden sollen so um den interagierenden Besucher verteilt sein, wie sie um den Cursor verteilt sind. Die Darstellung ist jedoch zweidimensional, weswegen die Räumliche Verteilung von der ZY Ebene auf der Projektionsfläche um 90° vom Besucher weggekippt wird, um auf der XY Ebene zu Liegen. 
+Die Klänge die von den Zügen erzeugt werden, sollen so um den interagierenden Besucher verteilt sein wie sie um den Cursor verteilt sind. Die visuelle Darstellung ist jedoch zweidimensional, weswegen die Räumliche Verteilung von der ZY Ebene auf der Projektionsfläche um 90° vom Besucher weggekippt wird, um auf der XY Ebene zu Liegen. 
 
 So wird der Quadrophonische Aufbau genutzt um die XY Ebene akustisch zu füllen. Es werden basierend auf der Distanz der Züge zum Cursor außerdem Halleffekte genutzt um die Illusion eines akustischen Raumes zu verbessern. 
 
