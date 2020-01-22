@@ -132,11 +132,7 @@ Es gibt drei Personae, und jede hat ihr korrespondierendes Klangobjekt welches d
 
 ### Raumkonzept/Aufbau
 
-#### Nutzung von Lautsprechern
-
-Für den Aufbau wurde ein quadrophonischer Aufbau mit Subwoofer gewählt. Ein klassisches 5.1 Setup wurde in Erwägung gezogen, der Lautsprecheraufbau hat aber keinen Grund unsymmetrisch zu sein, da die Richtung der Leinwand nur optisch im Vordergrund steht, und keine besonderen Akustischen Impulse als von der Leinwand kommend verstanden werden sollen. 
-
-Der Subwoofer ist möglichst nah am Interaktionsinterface, damit dieser auch möglichst nah am Interagierenden Besucher ist. Diese Position wurde gewählt, weil der Tieftonanteil nicht ortbar sein soll, sondern nur eine unterstützende Funktion hat
+#### Nutzung von Graphik
 
 \begin{figure}[h]
 \centering
@@ -145,15 +141,32 @@ Der Subwoofer ist möglichst nah am Interaktionsinterface, damit dieser auch mö
 \caption{Screenshot eines Ausschnittes der Visualisierung in p5: Züge in Farben nach Typ, Haltestellen grau und Cursor weiß umrandet.}
 \end{figure}
 
-Die Klänge die von den Zügen erzeugt werden, sollen so um den interagierenden Besucher verteilt sein wie sie um den Cursor verteilt sind. Die visuelle Darstellung ist jedoch zweidimensional, weswegen die Räumliche Verteilung von der ZY Ebene auf der Projektionsfläche um 90° vom Besucher weggekippt wird, um auf der XY Ebene zu Liegen. 
+Die Graphische Darstellung hat die Aufgabe das Interaktionsprinzip deutlich zu machen und Hinweise auf den Inhalt zu geben. Grundsätzlich gibt es 4 verschiedene Visuelle Elemente. 
+
+Haltestellen werden als graue Kreisflächen dargestellt die so auf der Visualisierung verteilt sind wie sie auf einer Landkarte zu finden wären. Sie sind grau gehalten und liegen auf der hintersten Ebene um darzustellen, dass sie Teil des Hintergrundes sind.
+
+Züge sind je nachdem welcher Persona bzw. welchem Zugtypen sie zugeordnet sind farbige Kreisflächen in grün für Gabriel/regional, rot für Julia/überregional und pink für Leonie/Fernverkehr. Sie bewegen sich in Echtzeit über die Karte.
+
+Dann gibt es den Cursor, welcher als weiße Kreisfläche dargestellt wird. Die Kreisfläche ist durchsichtig und liegt auf der obersten Ebene um zu kommunizieren, dass sie nicht Teil der Karte selbst ist sondern nur der Beobachter dieser Karte, der Rand ist blickdicht um eine Lupe anzumuten. Er ist außerdem größer als die anderen Elemente, um seine Wichtigkeit darzustellen. Er wird vom Nutzer durch einen Trackball in der Mitte des Aufbaus gesteuert.
+
+Berührt der Cursor einen der Züge erscheint das vierte Element: ein wachsender und immer durchsichtiger werdender Kreis der von dem berührten Zug ausgeht. Die Animation dauert so lange wie die Sonification die von diesem Zug ausgeht damit der Nutzer sehen kann, von welchen Zügen aktuell Klänge produziert werden. Zusätzlich ist auf diesem Kreis an Textelement, welches den Start- und Endbahnhof des Zuges anzeigt. Dies wurde hinzugefügt um einen Hinweis darauf zu geben, dass es sich bei den Kreisflächen um Züge handelt. Da die Installation die Haltestellen des Bundeslandes nutzt indem sie ausgestellt wird, können Nutzer evtl. sogar Zugverbindungen decken die sie schon genutzt haben, wodurch sie einen Persönlichen Bezug zu dem Kunstwerk herstellen können.
+
+Zusätzlich zu der graphischen Darstellung soll der Trackball in der Farbe des zuletzt berührten Zuges leuchten, um den Bezug zwischen Trackball und Graphik zu verdeutlichen.
+
+#### Nutzung von Lautsprechern
+
+Für den Aufbau wurde ein quadrophonischer Aufbau mit Subwoofer gewählt. Ein klassisches 5.1 Setup wurde in Erwägung gezogen, der Lautsprecheraufbau hat aber keinen Grund unsymmetrisch zu sein, da die Richtung der Graphischen Darstellung nur optisch im Vordergrund steht, und keine besonderen Akustischen Impulse als von der Darstellung kommend verstanden werden sollen. 
+
+Der Subwoofer ist möglichst nah am Interaktionsinterface, damit dieser auch möglichst nah am Interagierenden Besucher ist. Diese Position wurde gewählt, weil der Tieftonanteil nicht ortbar sein soll, sondern nur eine unterstützende Funktion hat
+
+Die Klänge die von den Zügen erzeugt werden, sollen so um den interagierenden Besucher verteilt sein wie siein der Visualisierung um den Cursor verteilt sind. Die visuelle Darstellung befindet sich jedoch auf der ZY Ebene, welche von einem Surround Aufbau nicht dargestellt werden kann, da dafür Höheninformationen von Nöten wären. Aus diesem Grund wird die Räumliche Verteilung von der ZY Ebene auf der Darstellung um 90° vom Besucher weggekippt wird, um auf der XY Ebene zu liegen.
 
 So wird der Quadrophonische Aufbau genutzt um die XY Ebene akustisch zu füllen. Es werden basierend auf der Distanz der Züge zum Cursor außerdem Halleffekte genutzt um die Illusion eines akustischen Raumes zu verbessern. 
 
 #### Raum als Medium für Schall
 
-Außerhalb des virtuellen akustischen Raumes gibt es allerdings noch den echten akustischen Raum in dem die Installation aufgebaut wird. 
+Außerhalb des virtuellen akustischen Raumes gibt es allerdings noch den echten akustischen Raum in dem die Installation aufgebaut wird. Es wurde bei der Gestaltung der Klänge darauf geachtet keine starken Impulse zu verwenden sondern eher langsam anschwellende Klänge zu verwenden um die Aufmerksamkeit des Besuchers nicht auf die Raumakustik zu lenken. Trotzdem spielt der Ausstellungsraum eine Rolle da es keine Lautsprecher außerhalb der Ebene gib, womit alle Höheninformationen von den Reflexionen des Ausstellungsraumes kommen. Aus diesem Grund gibt es im Soundprocessing die Möglichkeit den virtuellen Hallraum anzupassen. Die Einstellung soll so vorgenommen werden, dass sich der virtuelle Hall und der Raumhall bestmöglich ähneln, damit die Installation sich nahtlos in den Ausstellungsraum einfügt. 
 
-#### Nutzung von Graphik
+Dieses unauffällige Einfügen in den Raum ist gewünscht, da die Installation in ihrer Funktion als Sound Map einen Bezug zu ihrer Umgebung herstellen soll. So wie die Karte sich an das Bundesland des Ausstellungsortes anpasst, soll sich der akustische Raum der durch sie erzeugt wird an den Ausstellungsraum anpassen.
 
-#### 
 
