@@ -4,13 +4,13 @@
 
 ### Aufgabe der Klangästhetik {#aufgabe-der-klangaesthetik}
 
-Zunächst sollte ein Bezug zu den Geräuschen des Zugverkehrs zu erkennen sein, um auf das akustische Gedächtnis der Besucher zuzugreifen. Das charakteristische Schleifen der Räder auf den Gleisen ist ein Klang der sowohl durch aufnahmen von eben diesem Geräusch als auch durch die Auswahl von Synthetische klängen in die resultierenden Klangobjekte eingebaut wurde. Auch der typische immer wieder ansteigende Sinus-ähnliche Ton welcher von Elektromotoren von modernen Zügen produziert wird wurde emuliert, indem die Frequenz eines Trägertons mit Sägezahn-LFOs moduliert wurde.
+Zunächst sollte ein Bezug zu den Geräuschen des Zugverkehrs zu erkennen sein, um auf das akustische Gedächtnis der Besucher zuzugreifen. Das charakteristische Schleifen der Räder auf den Gleisen ist ein Klang der sowohl durch Aufnahmen von eben diesem Geräusch als auch durch die Auswahl von synthetische Klängen in die resultierenden Klangobjekte eingebaut wurde. Auch der typische, immer wieder ansteigende, Sinus-ähnliche Ton welcher von Elektromotoren von modernen Zügen produziert wird, wurde emuliert, indem die Frequenz eines Trägertons mit Sägezahn-LFOs moduliert wurde.
 
 Als LFOs (*Low Frequency Oscillators*) werden niederfrequente Signale bezeichnet, die meist genutzt werden um Frequenz, Filter oder andere Parameter eines Synthesizers zu steuern. [@raffaseder_audiodesign_2010 S. 219] 
 
 Schnellere LFOs welche die Frequenz von breitbandigen Trägersignalen modulieren wurden genutzt, um das Vorbeischnellen von Zugwagons und den dabei entstehenden Dopplereffekt zu emulieren. 
 
-Der Dopplereffekt beschreibt ein Phänomen, bei welchem sich die Frequenz einer Welle erhöht, wenn der emittierende Körper sich auf den Beobachter zubewegt, da die Welle gestaucht wird. Das Gegenteil ist der Fall bei Körpern die sich von einem Beobachter wegbewegen. [@schmuser_theoretische_2013 S. 147] Im Falle von Zugwagons, ist dies insbesondere bei Güterzügen bemerkbar, da genug Abstand zwischen den einzelnen Wagons besteht, sodass sie als einzelne akustische Körper wahrgenommen werden können.
+Der Dopplereffekt beschreibt ein Phänomen, bei welchem sich die Frequenz einer Welle erhöht, wenn der emittierende Körper sich auf den Beobachter zubewegt, da die Welle gestaucht wird. Das Gegenteil ist der Fall bei Körpern die sich von einem Beobachter wegbewegen. [@schmuser_theoretische_2013 S. 147] Im Falle von Zugwagons ist dies insbesondere bei Güterzügen bemerkbar, da genug Abstand zwischen den einzelnen Wagons besteht, sodass sie als einzelne akustische Körper wahrgenommen werden können.
 
 Außer dem Bezug auf die Geräusche des öffentlichen Personenverkehrs sollte noch Bezug zu den persönlichen Reiseerfahrungen des Künstlers hergestellt werden. Hierfür wurden die meistgefahrenen Zugstrecken aus allen bisherigen Wohnort gesammelt und die Distanzen dieser Zugstrecken wurden ermittelt.
 
@@ -145,11 +145,11 @@ Der Aufbau der Installation Besteht aus folgenden Elementen:
 \caption{Raumlayout mit Lautsprecherpositionen}
 \end{figure}
 
-Der Mac Mini ist das Herz der Installation. Auf ihm Laufen die Software Komponenten, die für Webscraping, Visualisierung und Sonification zuständig sind. An ihn angeschlossen sind über HDMI der Beamer welcher die Darstellung auf die Leinwand projiziert. Über USB sind drei weitere Geräte angeschlossen.
+Der Mac Mini ist das Herz der Installation. Auf ihm laufen die Software Komponenten, die für Webscraping, Visualisierung und Sonification zuständig sind. An ihn angeschlossen sind über HDMI der Beamer welcher die Darstellung auf die Leinwand projiziert. Über USB sind drei weitere Geräte angeschlossen.
 
-Einerseits das Audiointerface, dass die digitalen Audiosignale des Rechners in Analoge Signale umwandelt und diese an die Lautsprecher weitergibt. Zweitens der Trackball welcher dem Nutzer erlaubt die Cursorposition zu verändern.
+Einerseits das Audiointerface, das die digitalen Audiosignale des Rechners in Analoge Signale umwandelt und diese an die Lautsprecher weitergibt. Zweitens der Trackball welcher dem Nutzer erlaubt die Cursorposition zu verändern.
 
-Als drittes ist ein Teensy angeschlossen. Teensy ist eine Art Microcontroller welcher in der Lage ist über USB als MIDI gerät angeschlossen zu werden. Für ihn kann Software in einer modifizierten Version der Programmiersprache C entwickelt werden. [@pjrc_teensy_nodate] In diesem Fall läuft lediglich eine Software auf dem Controller, welche empfangene MIDI Control Change Nachrichten in Spannungen für den Roten, Grünen und Blauen Anteil einer RGB-LED umwandeln. 
+Als drittes ist ein Teensy angeschlossen. Teensy ist eine Art Microcontroller welcher in der Lage ist über USB als MIDI Gerät angeschlossen zu werden. Für ihn kann Software in einer modifizierten Version der Programmiersprache C entwickelt werden. [@pjrc_teensy_nodate] In diesem Fall läuft lediglich eine Software auf dem Controller, welche empfangene MIDI Control Change Nachrichten in Spannungen für den roten, grünen und blauen Anteil einer RGB-LED umwandeln. 
 
-Das MIDI (*Musical Instrument Digital Interface*) Protokoll ist ein Standard zur Übertragung von musikalischen Informationen. [@midi_manufacturers_association_complete_1996 S. 1] MIDI Control Messages sind eine besondere Art von MIDI Nachricht welche bei der Kontrolle von Synthesizern für alle nicht im MIDI Protokoll spezifizierten Funktionen genutzt werden kann. [@midi_manufacturers_association_complete_1996 S. 4ff]
+Das MIDI (*Musical Instrument Digital Interface*) Protokoll ist ein Standard zur Übertragung von musikalischen Informationen. [@midi_manufacturers_association_complete_1996 S. 1] MIDI Control Messages sind eine besondere Art von MIDI Nachricht, welche bei der Kontrolle von Synthesizern für alle nicht im MIDI Protokoll spezifizierten Funktionen genutzt werden kann. [@midi_manufacturers_association_complete_1996 S. 4ff]
 
