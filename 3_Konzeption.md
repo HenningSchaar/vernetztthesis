@@ -134,10 +134,6 @@ Es gibt drei Personae und jede hat ihr korrespondierendes Klangobjekt, welches d
 
   In einer Männerdomäne arbeitend ist sie mit unkooperativen männlichen Vorgesetzten konfrontiert weswegen sie sehr widerstandsfähig ist. Dadurch verkörpert sie die Stärke auch unter schweren Umständen entschlossen voranzuschreiten. In dieser Entschlossenheit und Unabhängigkeit spiegelt sie jedoch auch die Gefühle der Einsamkeit der Besucher wider. In Leonies Arbeit auf dem Gnadenhof können Besucher sich in ihrem Selbstverständnis als vielseitig und manchmal missverstanden wiederfinden.
 
-#### Zwischenzustände
-
-#### Bedeutung von Raum
-
 ### Raumkonzept/Aufbau
 
 #### Nutzung von Graphik {#nutzung-von-graphik}
@@ -161,11 +157,13 @@ Berührt der Cursor einen der Züge erscheint das vierte Element: ein wachsender
 
 Zusätzlich zu der graphischen Darstellung soll der Trackball in der Farbe des zuletzt berührten Zuges leuchten, um den Bezug zwischen Trackball und Graphik zu verdeutlichen.
 
+Abgesehen von der Graphischen Darstellung auf der Projektionsfläche gibt es noch die drei Kurzbeschreibungen der Personae, welche mit einem Bild und einer Kreisfläche der korrespondieren Zugfarbe versehen sind und im Ausstellungsraum ausgehangen werden. (vgl. digitaler Anhang *Personabeschreibungen*)
+
 #### Nutzung von Lautsprechern
 
 Für den Aufbau wurde ein quadrophonischer Aufbau mit Subwoofer gewählt. Ein klassisches 5.1 Setup wurde in Erwägung gezogen, der Lautsprecheraufbau hat aber keinen Grund unsymmetrisch zu sein, da die Richtung der Graphischen Darstellung nur optisch im Vordergrund steht, und keine besonderen akustischen Impulse als von der Darstellung kommend verstanden werden sollen. 
 
-Der Subwoofer ist möglichst nah am Interaktionsinterface, damit dieser auch möglichst nah am interagierenden Besucher ist. Diese Position wurde gewählt, weil der Tieftonanteil nicht ortbar sein soll, sondern nur eine unterstützende Funktion hat.
+Der Subwoofer wird hinter der Leinwand versteckt um das Aussehen der Installation minimalistisch zu halten. Die Positionierung des Subwoofers ist akustisch nicht so kritisch wie die anderen Lautsprecher der Installation da dieser nur Frequenzen unter 80 Hz wiedergeben soll, und diese kaum zu orten sind. [@hall_musikalische_2008 S. 305]
 
 Die Klänge die von den Zügen erzeugt werden, sollen so um den interagierenden Besucher verteilt sein wie sie in der Visualisierung um den Cursor verteilt sind. Die visuelle Darstellung befindet sich jedoch auf der ZY Ebene, welche von einem Surround Aufbau nicht dargestellt werden kann, da dafür Höheninformationen von Nöten wären. Aus diesem Grund wird die räumliche Verteilung von der ZY Ebene auf der Darstellung um 90° vom Besucher weg gekippt um auf der XY Ebene zu liegen.
 

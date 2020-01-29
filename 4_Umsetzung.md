@@ -132,7 +132,7 @@ Der Aufbau der Installation Besteht aus folgenden Elementen:
 | 1    | Leinwand 168*200cm                             | -                |
 | 1    | Trackball                                      | USB-A            |
 | 1    | Teensy mit RGB-LED                             | mikro USB-B zu A |
-| 1    | MDF Möbel, 100cm höhe                          | -                |
+| 1    | MDF Möbel, 1016mm höhe                         | -                |
 | 1    | Focusrite Scarlett 18i20 Audiointerface        | USB-C zu A       |
 | 1    | Mac Mini mit *Max*, *p5js* und Internetzugriff | -                |
 
@@ -152,4 +152,15 @@ Einerseits das Audiointerface, das die digitalen Audiosignale des Rechners in An
 Als drittes ist ein Teensy angeschlossen. Teensy ist eine Art Microcontroller welcher in der Lage ist über USB als MIDI Gerät angeschlossen zu werden. Für ihn kann Software in einer modifizierten Version der Programmiersprache C entwickelt werden. [@pjrc_teensy_nodate] In diesem Fall läuft lediglich eine Software auf dem Controller, welche empfangene MIDI Control Change Nachrichten in Spannungen für den roten, grünen und blauen Anteil einer RGB-LED umwandeln. 
 
 Das MIDI (*Musical Instrument Digital Interface*) Protokoll ist ein Standard zur Übertragung von musikalischen Informationen. [@midi_manufacturers_association_complete_1996 S. 1] MIDI Control Messages sind eine besondere Art von MIDI Nachricht, welche bei der Kontrolle von Synthesizern für alle nicht im MIDI Protokoll spezifizierten Funktionen genutzt werden kann. [@midi_manufacturers_association_complete_1996 S. 4ff]
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=4cm]{saeule}
+\break
+\caption{Säule aus MDF mit eingebautem leuchtenden Trackball}
+\end{figure}
+
+Teensy und Trackball wurden gemeinsam in eine 1016mm hohe Säule aus MDF mit einem 300mm*300mm Sockel eingebaut. Der Trackball ragt oben aus der Säule heraus und wird von innen mit den durch den Teensy gesteuerten LEDs beleuchtet. 
+
+
 
