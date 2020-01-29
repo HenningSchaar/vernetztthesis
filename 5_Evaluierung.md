@@ -14,7 +14,7 @@ Bei der Entscheidung ob eine gerade oder ungerade Skala genutzt werden soll, fie
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=12cm]{skalierung}
+\includegraphics[width=11cm]{skalierung}
 \break
 \caption{Befragungswerte in schwarz \colorbox{black}{  } ganzrationale Trendlinie in grau \colorbox{lightgray}{  }. \label{skalierung}}
 \end{figure}
@@ -29,7 +29,7 @@ Die ungenaue Dimensionalität dieser Frage besteht, da es kein sprachlich Darste
 
 ### Rad der Emotionen
 
-![Rad der Emotionen nach Robert Plutchik [@metoaster_robert_2012]\label{radderemotionen}](Graphics/emotionenleer.jpg){ height=512px }
+![Rad der Emotionen nach Robert Plutchik [@metoaster_robert_2012]\label{radderemotionen}](Graphics/emotionenleer.jpg){ height=400px }
 
 Robert Plutchik suchte nach einer allgemein gültigen Einteilung und Kategorisierung von Emotionen. Er nutzte hierfür Prinzipien aus der psychologischen Beobachtungen von nicht menschlichen Tieren. Er beschreibt hierfür Emotionen im Sinne ihrer Funktion in einem Verlauf von Stimulus und Handlung. Zunächst gibt es einen Stimulus, aus welchem eine Kognition resultiert. Ein Gefühlszustand wird dadurch ausgelöst und eine Aktion wird durchgeführt um den gewünschten Effekt zu erzielen. Der ausgelöste Gefühlszustand wird vom Individuum als Emotion wahrgenommen.
 
@@ -59,7 +59,7 @@ Das Ausschenken von Alkohol im Rahmen der Veranstaltung ist ein potentieller Fak
 
 Weiterhin gab es im Laufe der Veranstaltung eine Zeitspanne, in der die Installation auf Grund eines Softwarefehlers nicht immer auf das Berühren von Zügen reagierte.
 
-## Gewonnene Erkenntnisse
+## Gewonnene Erkenntnisse {#gewonnene-erkenntnisse}
 
 Die Umhüllung wurde sehr unterschiedlich empfunden, mit einem leichten Trend zu weg von als räumlich wahrgenommenen Klang hin zu nicht umhüllenden Klang. Daraus könnte geschlossen werden, dass die Eingebauten Soundprocessings von Hall, Positionierung und Lautstärke durch Distanz, nicht ausreichen oder nicht korrekt konfiguriert wurden um einen räumlichen Klangeindruck zu schaffen.
 
@@ -73,7 +73,7 @@ Die Frage danach ob Inhalt oder Umsetzung im Vordergrund standen ergab die meist
 
 Ein Großteil der Befragten gab an, die Installation löse keine originellen Gedanken aus, nur ein Viertel gab an diese Gedanken würden sie am nächsten Tag noch beschäftigen. Dies könnte entweder durch eine Mangelhafte inhaltliche Idee der Installation oder durch eine mangelhafte Kommunikation des Inhalts der Installation zu erklären sein.
 
-![Häufigkeit der angegebenen Emotionen als Zahlen im jeweiligen Feld. \label{radderemotionendaten}](Graphics/emotionendaten.jpg){ height=512px }
+![Häufigkeit der angegebenen Emotionen als Zahlen im jeweiligen Feld. \label{radderemotionendaten}](Graphics/emotionendaten.jpg){ height=400px }
 
 Anhand der angegebenen Emotionen aus dem Rad der Emotionen (siehe Abb. \ref{radderemotionendaten}) ist zu erkennen, dass Überwiegend positive Emotionen empfunden wurden. Dies widerspricht nicht dem gewünschten Effekt, da die Installation unter anderem darauf abzielte die veränderte Geräuschkulisse durch die Maschinen im nachindustriellen Zeitalter als etwas ästhetisches darzustellen. 
 

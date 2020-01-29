@@ -118,7 +118,7 @@ Bei Gabriel ist der Anteil des Tonalen Effekt am Stärksten, bei Julia und Leoni
 
 Zusätzlich werden Global alle Laustsprechersignale Monosummiert um an den Subwoofer gesendet zu werden.
 
-## Hardware
+## Aufbau
 
 ### Komponenten {#komponenten}
 
@@ -128,15 +128,15 @@ Der Aufbau der Installation Besteht aus folgenden Elementen:
 | ---- | ---------------------------------------------- | ---------------- |
 | 4    | Full range Monitore auf Stativen               | XLR zu TRS       |
 | 1    | Subwoofer                                      | XLR zu TRS       |
-| 1    | Full HD Beamer                                 | HDMI             |
-| 1    | Leinwand 168*200cm                             | -                |
+| 1    | Full HD Beamer +Leinwand 1680*2000mm           | HDMI             |
+| 3    | Personabeschreibungen im Format DIN A4         | -                |
 | 1    | Trackball                                      | USB-A            |
 | 1    | Teensy mit RGB-LED                             | mikro USB-B zu A |
 | 1    | MDF Möbel, 1016mm höhe                         | -                |
 | 1    | Focusrite Scarlett 18i20 Audiointerface        | USB-C zu A       |
 | 1    | Mac Mini mit *Max*, *p5js* und Internetzugriff | -                |
 
-### Aufbau
+### Anordnung
 
 \begin{figure}[h]
 \centering
@@ -161,6 +161,8 @@ Das MIDI (*Musical Instrument Digital Interface*) Protokoll ist ein Standard zur
 \end{figure}
 
 Teensy und Trackball wurden gemeinsam in eine 1016mm hohe Säule aus MDF mit einem 300mm*300mm Sockel eingebaut. Der Trackball ragt oben aus der Säule heraus und wird von innen mit den durch den Teensy gesteuerten LEDs beleuchtet. 
+
+
 
 
 

@@ -157,9 +157,29 @@ Berührt der Cursor einen der Züge erscheint das vierte Element: ein wachsender
 
 Zusätzlich zu der graphischen Darstellung soll der Trackball in der Farbe des zuletzt berührten Zuges leuchten, um den Bezug zwischen Trackball und Graphik zu verdeutlichen.
 
-Abgesehen von der Graphischen Darstellung auf der Projektionsfläche gibt es noch die drei Kurzbeschreibungen der Personae, welche mit einem Bild und einer Kreisfläche der korrespondieren Zugfarbe versehen sind und im Ausstellungsraum ausgehangen werden. (vgl. digitaler Anhang *Personabeschreibungen*)
+#### Nutzung von Druck
 
-#### Nutzung von Lautsprechern
+Abgesehen von der Graphischen Darstellung auf der Projektionsfläche gibt es noch die drei Kurzbeschreibungen der Personae, welche mit einem Bild und einer Kreisfläche der korrespondieren Zugfarbe versehen sind und im Ausstellungsraum ausgehangen werden. (vgl. digitaler Anhang *./personabeschreibungen*)
+
+Die Bilder wurden von Befragten zur Verfügung gestellt, welche ursprünglich als Vorlage für die Personae dienten. In der Entwicklung der Personae bewegten sich die Personae jedoch sehr weit weg von der Ursprünglichen Inspiration. Um auf die Ursprünge der Personae anzuspielen und einen Persönlichen Bezug zu den Personae zu behalten wurden Namen und Bilder der anfänglichen Vorlagen übernommen.
+
+![Bild für Gabriel [@arlauskas_2020]](Graphics/gabriel.jpg){ height=256px }
+
+Bei der Auswahl der Bilder wurde beachtet, dass diese zu der später Entwickelten Persona passten. Für Gabriel wurde ein Selfie verwendet, welches bei einer Zugfahrt aufgenommen wurde. Die Umgebung des Zuges und die unprofessionelle Aufnahmetechnik, mit dem Kamerawinkel unter der Augenhöhe deutet auf ein nicht inszeniertes im Alltag aufgenommenes Bild hin. Dies Spiegelt die von ihm empfundene Einförmigkeit des Reisens wider. 
+
+
+
+![Bild für Julia [@stoll_2020]](Graphics/julia.jpeg){ height=256px }
+
+
+
+Für Julia wurde ein inszenierteres Bild verwendet, da sie in der Unsicherheit, die durch ihre ungewisse Zukunft verursacht ist, darauf Bedacht ist, ihre Außenwirkung zu kontrollieren. Außerdem trägt sie eine Brille um die Assoziation zu Lesen und in der Konsequenz auch zu Literaturwissenschaften herzustellen. Auch dieses Bild wurde mit einer Handykamera aufgenommen, um einem Social Media Post anzumuten, was ihren Status als Studierende glaubhaft macht.
+
+![Bild für Leonie [@dollak_2020]](Graphics/leonie.jpg){ height=256px }
+
+Bei dem Bild welches Leonie darstellt, wurde ein Bild gewählt welches von einer Professionellen Fotografin aufgenommen wurde. Es könnte auch als Bewerbungsfoto fungieren, und weckt somit beim Besucher die Assoziation der Professionalität und der damit verbundenen Entschlossenheit der Persona.
+
+#### Nutzung von Lautsprechern {#nutzung-von-lautsprechern}
 
 Für den Aufbau wurde ein quadrophonischer Aufbau mit Subwoofer gewählt. Ein klassisches 5.1 Setup wurde in Erwägung gezogen, der Lautsprecheraufbau hat aber keinen Grund unsymmetrisch zu sein, da die Richtung der Graphischen Darstellung nur optisch im Vordergrund steht, und keine besonderen akustischen Impulse als von der Darstellung kommend verstanden werden sollen. 
 
