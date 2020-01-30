@@ -1,5 +1,7 @@
 # Umsetzung {#umsetzung}
 
+Alle für die Umsetzung der Installation genutzten Dateien, inklusive des gesamten Quellcodes, befinden sich im digitalen Anhang dieser Arbeit.
+
 ## Entwicklung der Klangobjekte
 
 ### Aufgabe der Klangästhetik {#aufgabe-der-klangaesthetik}
@@ -14,17 +16,17 @@ Der Dopplereffekt beschreibt ein Phänomen, bei welchem sich die Frequenz einer 
 
 Außer dem Bezug auf die Geräusche des öffentlichen Personenverkehrs sollte noch Bezug zu den persönlichen Reiseerfahrungen des Künstlers hergestellt werden. Hierfür wurden die meistgefahrenen Zugstrecken aus allen bisherigen Wohnort gesammelt und die Distanzen dieser Zugstrecken wurden ermittelt.
 
-Zum einen wurden die Distanzen in Kilometern als Frequenzen für Oszillatoren verwendet um je Wohnort eine Art Akkord zu bauen, welche als Toncluster zu beschreiben wären, bei welchem jeder Ton einer Zugstrecke entsprach. Da diese Klänge an sich sehr Dissonant und unangenehm sind, und das nicht der zu erzielende Effekt war, wurde entschieden einen Granularsynthesizer zu verwenden, um auf der Grundlage dieser Toncluster verschiedenste Klangmaterialen herzustellen, welche in der Erstellung der fertigen Klangobjekte verwendet wurden.
+Zum einen wurden die Distanzen in Kilometern als Frequenzen für Oszillatoren verwendet um je Wohnort eine Art Akkord oder Toncluster zu bauen, bei welchem jeder Ton einer Zugstrecke entsprach. Da diese Klänge an sich sehr Dissonant und unangenehm sind, und das nicht der zu erzielende Effekt war, wurde entschieden einen Granularsynthesizer zu verwenden, um auf der Grundlage dieser Toncluster verschiedenste Klangmaterialen herzustellen, welche in der Erstellung der fertigen Klangobjekte verwendet wurden.
 
-Bei Granularsynthese handelt es sich um eine Arbeitsweise mit Klang, bei der kurze Segmente von Klang, sogenannte *Grains*, generiert und manipuliert werden. [@lazzarini_computer_2017 S. 201] Für Granularsynthese kann eine vorhandene Tondatei genutzt werden um daraus eben diese *Grains* zu gewinnen und diese dann auf unterschiedliche weise wieder zusammenzusetzen. Die hierfür verwendete Software war das Open Source Projekt *Dronebox* welches in *Max* zu verwenden ist. [@ohland_jonasohlanddronebox-max_2019]
+Bei Granularsynthese handelt es sich um eine Arbeitsweise mit Klang, bei der kurze Segmente von Klang, sogenannte *Grains*, generiert und manipuliert werden. [@lazzarini_computer_2017 S. 201] Für Granularsynthese kann eine vorhandene Tondatei genutzt werden um daraus eben diese *Grains* zu gewinnen und diese dann auf unterschiedliche weise wieder zusammenzusetzen. Die hierfür verwendete Software war das Open Source Projekt *Dronebox*, welches in *Max* zu verwenden ist. [@ohland_jonasohlanddronebox-max_2019]
 
-Weiterhin wurden die Distanzen genutzt um FM Synthese zu betreiben. Es wurden Netzwerke von sich gegenseitig in der Frequenz modulierende Oszillatoren angelegt, welche dann mit den Distanzen in Kilometern als Frequenzen betrieben wurden. Der letzte Stand des hierfür verwendeten Maxpatches findet sich im digitalen Anhang.
+Weiterhin wurden die Distanzen genutzt um FM Synthese zu betreiben. Es wurden Netzwerke von sich gegenseitig in der Frequenz modulierenden Oszillatoren angelegt, welche dann mit den Distanzen in Kilometern als Frequenzen betrieben wurden. Der letzte Stand des hierfür verwendeten Maxpatches findet sich im digitalen Anhang.
 
 ### Bezug auf Personae
 
-Für Gabriel wurde ein Klangobjekt entwickelt, welches im vergleich zu den anderen beiden viel tonalen Inhalt hat. Diese Entscheidung wurde getroffen, da Tonalität ein wichtiger Grundbestandteil der musikalischen Hörgewohnheiten der Besucher ist, und Gabriel für Sicherheit stehen soll. Der Inspiration für den harmonischen und melodischen Inhalt lag eine Aussage einer Befragten zu Grunde. Sie meinte, der öffentliche Personennahverkehr sei für sie ähnlich wie ein Wartezimmer, dies bezog sie darauf, dass es sich dabei um einen geteilten Raum handelt, in welchem man sich kurz genug aufhält um nicht dem Bedürfnis nachzugehen sich einzurichten, sondern eventuelle Unannehmlichkeiten aushält. 
+Für Gabriel wurde ein Klangobjekt entwickelt, welches im vergleich zu den anderen beiden viel tonalen Inhalt hat. Diese Entscheidung wurde getroffen, da Tonalität ein wichtiger Grundbestandteil der musikalischen Hörgewohnheiten der Besucher ist, und Gabriel für Sicherheit stehen soll. Der Inspiration für den harmonischen und melodischen Inhalt lag eine Aussage einer Befragten zu Grunde. Sie meinte, der öffentliche Personennahverkehr sei für sie ähnlich wie ein Wartezimmer. Dies bezog sie darauf, dass es sich dabei um einen geteilten Raum handelt, in welchem man sich kurz genug aufhält um nicht dem Bedürfnis nachzugehen sich einzurichten, sondern eventuelle Unannehmlichkeiten aushält. 
 
-Auf die Unannehmlichkeiten des Reisens bezog sich auch Brian Eno in seiner Reihe von Stücken *Music for Airports* von 1978. Es sollte an Flughäfen gespielt werden um die Irritation der Reisenden zu verringern, die Musik sollte dabei nicht aufdringlich, aber dennoch interessant sein.[@peter_h_lisius_music_2010 S. 633] Dies wird durch ein geringes Tempo und minimale harmonische Bewegung bei jedoch vielseitiger akustischer Textur erreicht. 
+Auf die Unannehmlichkeiten des Reisens bezog sich auch Brian Eno in seiner Reihe von Stücken *Music for Airports* von 1978. Es sollte an Flughäfen gespielt werden um die Irritation der Reisenden zu verringern. Die Musik sollte dabei nicht aufdringlich, aber dennoch interessant sein,[@peter_h_lisius_music_2010 S. 633] dies wird durch ein geringes Tempo und minimale harmonische Bewegung bei jedoch vielseitiger akustischer Textur erreicht. 
 
 Von dem melodischen Material von *Music for Airports* inspirierte Melodien wurden geschrieben und durch Verlangsamung und Oktavverschiebungen variiert um den Tonalen Inhalt des Klangobjektes für Gabriel herzustellen. Das Klangobjekt für Gabriel beinhaltet wenig texturelle Variation, um die Einförmigkeit seiner Nutzung von Zügen widerzuspiegeln.
 
@@ -34,9 +36,9 @@ Das Klangobjekt welches für Leonie steht, wurde durch die in \ref{aufgabe-der-k
 
 ### Dramaturgie
 
-Dem dramaturgischen Verlauf der Klangobjekte liegen die jeweiligen Wahrnehmungen der den Personae zugeordneten Befragten des Reiseverlaufs zugrunde.
+Dem dramaturgischen Verlauf der Klangobjekte liegen die jeweiligen Wahrnehmungen, der den Personae zugeordneten Befragten, des Reiseverlaufs zugrunde.
 
-Für Gabriel wurde eine im zeitlichen Verlauf nur minimal variierende Entwicklung gewählt um die Zeitlich als homogen empfundene Reise abzubilden.
+Für Gabriel wurde eine im zeitlichen Verlauf nur minimal variierende Entwicklung gewählt um die zeitlich als homogen empfundene Reise abzubilden.
 
 Für Julia wurde das Klangobjekt in fünf Teile eingeteilt. (vgl. \ref{befragungen} [*Befragungen*](#befragungen) S. \pageref{befragungen}) Die einzelnen Etappen wurden nach dem Empfinden des Künstlers durch Klänge widergespiegelt, wobei für als unangenehm empfundene Emotionen eher Obertonreiche, also kratzende, und für als angenehme Empfundene Emotionen eher tonale Klänge verwendet wurden. Töne mit Stark variierendem Grundton im Bassbereich wurden verwendet um Bedrohliche Gefühle darzustellen.
 
@@ -44,35 +46,35 @@ Für das Klangobjekt, welches Leonies Reise darstellt, wurde eine ähnliche Eint
 
 ## Webscraping & Node.js {#nodejs}
 
-*Node.js* ist eine Javascript Runtime, welche die V8 Javascript engine von Google Chrome nutzt. [@openjs_foundation_about_nodate] Es ist also eine Umgebung um Javascript auszuführen, ähnlich wie ein Webbrowser Javascript ausführen würde. *Node.js* hat jedoch den Vorteil nicht den overhead eines Browsers zu haben und mit vielen zusätzlichen Funktionen ausgestattet zu sein, welche in klassischen Browserumgebungen nicht verfügbar sind. Zudem haben *Node.js* Anwendungen im Gegensatz zu im Browser ausgeführtem Javascript sehr viel weniger Einschränkungen, zum Beispiel um auf Netzwerkhardware und Festplatte des Host-Rechners zuzugreifen.
+*Node.js* ist eine Javascript Runtime, welche die V8 Javascript engine von Google Chrome nutzt. [@openjs_foundation_about_nodate] Es ist also eine Umgebung um Javascript auszuführen, ähnlich wie ein Webbrowser Javascript ausführen würde. *Node.js* hat jedoch den Vorteil nicht den overhead eines Browsers zu haben und mit vielen zusätzlichen Funktionen ausgestattet zu sein, welche in klassischen Browserumgebungen nicht verfügbar sind. Zudem haben *Node.js* Anwendungen im Gegensatz zu im Browser ausgeführtem Javascript sehr viel weniger Einschränkungen, um zum Beispiel auf Netzwerkhardware und die Festplatte des Host-Rechners zuzugreifen.
 
 Das Webscraping besteht aus drei Node.js Programmen: *getStrecken.js*, *extractStations.js*. und *scraper.js* wobei die ersten beiden zur Erstellung der für den Betrieb erforderlichen Daten zuständig sind und letzteres im Betrieb der Installation genutzt wird.
 
-*getStrecken.js* wird manuell mit einer Liste von URLs der Strecken auf *Zugfinder.de* welche in der Installation angezeigt werden sollen bespielt. Für jeden dieser URLs macht das Programm ein HTTP Request aus welchem es mit Hilfe des *dom-parsers* die Namen der Haltestellen sowie deren Position auf der Darstellung entnimmt und die um diese Parameter ergänzte Liste unter *strecken.json* speichert. Die Position der Haltestellen ist wichtig für die spätere Darstellung in *p5js*, da dadurch die relative Position der Züge zu den Haltestellen berechnet wird. *dom-parser* ist eine Erweiterung für Node.js um HTML, die Markup Sprache mit der *Zugfinder.de* arbeitet, effektiv zu parsen. [@ershov-konst_pseudonym_dom-parser_nodate]
+*getStrecken.js* wird manuell mit einer Liste von URLs der Strecken auf *Zugfinder.de* welche in der Installation angezeigt werden sollen bespielt. Für jeden dieser URLs macht das Programm ein HTTP Request aus welchem es mit Hilfe des *dom-parsers* die Namen der Haltestellen sowie deren Position auf der Darstellung entnimmt und die um diese Parameter ergänzte Liste unter *strecken.json* speichert. Die Positionen der Haltestellen sind wichtig für die spätere Darstellung in *p5js*, da dadurch die relative Position der Züge zu den Haltestellen berechnet wird. *dom-parser* ist eine Erweiterung für Node.js um HTML, die Markup Sprache mit der *Zugfinder.de* arbeitet, effektiv zu parsen. [@ershov-konst_dom-parser_nodate]
 
-*extractStation.js* hat die Funktion aus dem durch *getStrecken.js* angefertigten Datensatz eine Karte herzustellen. Es sammelt alle darin enthaltenen Haltestellen in einer Liste, entfernt die Duplikate und formatiert aus dieser neuen Liste einen API Request an die Google Distance Matrix API, welche die geographischen Koordinaten dieser Haltestellen zurückgibt. Diese Koordinaten werden in der Liste der in *strecken.json* vorkommenden Haltestellen ergänzt und als *map.json* abgespeichert.
+*extractStation.js* hat die Funktion dem durch *getStrecken.js* angefertigten Datensatz geographische Koordinaten hinzuzufügen. Es sammelt alle darin enthaltenen Haltestellen in einer Liste, entfernt die Duplikate und formatiert aus dieser neuen Liste einen API Request an die Google Distance Matrix API, welche die geographischen Koordinaten dieser Haltestellen zurückgibt. Diese Koordinaten werden in der Liste der in *strecken.json* vorkommenden Haltestellen ergänzt und als *map.json* abgespeichert.
 
-*scraper.js* hat die Aufgabe die Positionen der Züge zu ermitteln welche sich auf den in der URL-Liste enthaltenen Strecken befinden. Dieses Programm musste kurze Zeit vor Fertigstellen der Arbeit implementiert werden, da sich die Infrastruktur der Seite *Zugfinder.de* am 24. Januar auf entscheidende Weise änderte. Die Streckenansicht auf *Zugfinder.de* funktioniert durch ein JSON-File welches dynamisch, also nach Laden des eigentlichen Inhaltes der Seite, geladen wird. Vor dem 24. Januar war es möglich auf diese JSON Datei mit einem einfachen HTTP-request, also dem aufrufen eines Links, zuzugreifen. Mutmaßlich aus Sicherheitsgründen implementierte der Entwickler jedoch dann eine Einschränkung, die zur Folge hat, dass nur von der besuchten Streckenansicht ein *XMLHttpRequest* (kurz *XHR*) genutzt werden kann um das erforderliche JSON zu laden. *XHRs*  sind von Microsoft entwickelte Javascript Objekte, die den Zugriff auf Daten über eine URL erlauben und vereinfachen. [@mozilla_xmlhttprequest_nodate] In diesem Fall wird jedoch nur eine vollständige Datei zurückgegeben wenn dieses *XHR* einen Cookie enthält welcher beim Besuchen der Seite generiert wird.
+*scraper.js* hat die Aufgabe die Positionen der Züge zu ermitteln welche sich auf den in der URL-Liste enthaltenen Strecken befinden. Dieses Programm musste kurze Zeit vor Fertigstellen der Arbeit implementiert werden, da sich die Infrastruktur der Seite *Zugfinder.de* am 24. Januar auf entscheidende Weise änderte. Die Streckenansicht auf *Zugfinder.de* funktioniert durch ein JSON-File welches dynamisch, also nach Laden des eigentlichen Inhaltes der Seite, geladen wird. Vor dem 24. Januar war es möglich auf diese JSON Datei mit einem einfachen HTTP-request, also dem aufrufen eines Links, zuzugreifen. Mutmaßlich aus Sicherheitsgründen implementierte der Entwickler jedoch dann eine Einschränkung, die zur Folge hat, dass nur von der besuchten Streckenansicht ausgehend ein *XMLHttpRequest* (kurz *XHR*) genutzt werden kann um das erforderliche JSON zu laden. *XHRs*  sind von Microsoft entwickelte Javascript Objekte, die den Zugriff auf Daten über eine URL erlauben und vereinfachen. [@mozilla_xmlhttprequest_nodate] In diesem Fall wird jedoch nur eine vollständige Datei zurückgegeben, wenn das *XHR* einen Cookie enthält welcher beim Besuchen der Seite generiert wird.
 
-Cookies sind Textdateien welche entweder vom Server an den Browser gesendet, oder von einem im Browser ausgeführten Javascript generiert werden. Sie werden unter anderem genutzt um Nutzer zu identifizieren und Statusinformationen über den Besuch der Website zu speichern. [@barth_abartheecsberkeleyedu_http_nodate] Auf der Seite *Zugfinder.de* werden die Cookies vom Server generiert, weswegen der einfachste Weg weiterhin auf das zugrundeliegende JSON zuzugreifen die Nutzung eines headless Browsers, in diesem Fall *Puppeteer*, ist. 
+Cookies sind Textdateien welche entweder vom Server an den Browser gesendet, oder von einem im Browser ausgeführten Javascript generiert werden. Sie werden unter anderem genutzt um Nutzer zu identifizieren und Statusinformationen über den Besuch der Website zu speichern. [@barth_http_nodate] Auf der Seite *Zugfinder.de* werden die Cookies vom Server generiert, weswegen der einfachste Weg weiterhin auf das zugrundeliegende JSON zuzugreifen die Nutzung eines headless Browsers, in diesem Fall *Puppeteer*, ist. 
 
 *Puppeteer* ist eine *Node.js* Library, welche die Automatisierung der Nutzung eines Browsers über Javascript Befehle erlaubt. Sie führt dafür eine oder mehrere Instanzen des Browsers *Chromium* ohne die Darstellung eines Graphischen User Interfaces (kurz *GUI*) aus. Das ausführen ohne GUI bezeichnet man als *headless operation*. [@noauthor_puppeteerpuppeteer_2020]
 
-Das Programm öffnet eine Instanz von *Chromium*, besucht die Streckenansicht und wartet dann darauf, dass das *XHR* für die benötigten Zugpositionen gesendet wird. Wenn die Datei heruntergeladen ist, wird sie dem *Node.js* Prozess zugeführt und von dort an den p5js Prozess gesendet (vgl. \ref{webscraping-kommunikation} [*Kommunikation*](#webscraping-kommunikation) S. \pageref{webscraping-kommunikation}) . Dieser Prozess wird für alle in der Liste enthaltenen Zugstrecken durchgeführt, um dann wieder am Anfang der zu beginnen.
+Das Programm öffnet eine Instanz von *Chromium*, besucht die Streckenansicht und wartet dann darauf, dass das *XHR* für die benötigten Zugpositionen gesendet wird. Wenn die Datei heruntergeladen ist, wird sie dem *Node.js* Prozess zugeführt und von dort an den p5js Prozess gesendet (vgl. \ref{webscraping-kommunikation} [*Kommunikation*](#webscraping-kommunikation) S. \pageref{webscraping-kommunikation}) . Dieser Prozess wird für alle in der Liste enthaltenen Zugstrecken durchgeführt, um dann wieder am Anfang der Liste zu beginnen.
 
 ## p5js {#p5}
 
-p5.js ist eine Javascript Library mit dem Ziel, Programmieren für Künstler, Designer und andere zugänglicher zu machen. Es nutzt einen sogenannten *Sketch* in dem alle in der *draw* Funktion enthaltenen Operationen einmal pro angezeigtem Bild ausgeführt werden. [@mccarthy_home_nodate] Dies kann genutzt werden um Animationen in einem *HTML* Dokument darzustellen.
+p5.js ist eine Javascript Library mit dem Ziel, Programmieren für Künstler, Designer und andere zugänglicher zu machen. Es nutzt einen sogenannten *Sketch* in dem alle in der *draw* Funktion enthaltenen Operationen einmal pro angezeigtem Bild ausgeführt werden. [@p5js_home_nodate] Dies kann genutzt werden um Animationen in einem *HTML* Dokument darzustellen.
 
 ### Kommunikation {#webscraping-kommunikation}
 
-Für die Kommunikation zu den anderen Prozessen wird *Open Sound Control* (kurz *OSC*) verwendet. *OSC* ist ein offenes Nachrichten Protokoll, welches ursprünglich im UC Berkeley Center for New Music and Audio Technology (CNMAT) entwickelt wurde. Es wurde speziell für die Kommunikation zwischen Computern, Synthesizern und anderen Multimediageräten entwickelt. [@wright_open_2002]
+Für die Kommunikation zu den anderen Prozessen wird *Open Sound Control* (kurz *OSC*) verwendet. *OSC* ist ein offenes Nachrichtenprotokoll, welches ursprünglich im *UC Berkeley Center for New Music and Audio Technology* (CNMAT) entwickelt wurde. Es wurde speziell für die Kommunikation zwischen Computern, Synthesizern und anderen Multimediageräten entwickelt. [@wright_open_2002]
 
 Die Wahl viel auf OSC, da es sowohl für *p5js*, als auch für *Node.js* und *Max* einfach zu nutzende implementierungen dieses Standards gibt. Für das versenden der *OSC* Nachrichten wird meist UDP verwendet.
 
-*UDP* (*User Datagram Protocol*) ist ein Netzwerk-Nachrichtenprotokoll, welches auf Handshakes verzichtet und deswegen einfach zu nutzen ist. [@fairhurst_unicast_2008] Allerdings bedeutet dieser Verzicht auf Bestätigungen auch, dass *UDP* kein besonders sicheres Netzwerkprotokoll ist, weswegen Browser das Senden und Empfangen von *UDP* nicht erlauben. *p5js* läuft allerdings innerhalb eines Browsers, weswegen eine sogenannte Bridge zum Einsatz kam. Diese gibt die Empfangenen *UDP* Pakete über *Socket.io*, einer beliebten *Node.js* zu Browser Kommunikationsschnittstelle[@socketio_socketio_2020], an den Browser weiter.
+*UDP* (*User Datagram Protocol*) ist ein Netzwerk-Nachrichtenprotokoll, welches auf Handshakes verzichtet und deswegen einfach zu nutzen ist. [@fairhurst_unicast_2008] Allerdings bedeutet dieser Verzicht auf Bestätigungen auch, dass *UDP* kein besonders sicheres Netzwerkprotokoll ist, weswegen Browser das Senden und Empfangen von *UDP* nicht erlauben. *p5js* läuft allerdings innerhalb eines Browsers, weswegen eine sogenannte Bridge zum Einsatz kam. Diese gibt die Empfangenen *UDP* Pakete über *Socket.io*, einer beliebten *Node.js*-zu-Browser-Kommunikationsschnittstelle[@socketio_socketio_2020], an den Browser weiter.
 
-Die hierfür genutzte Bridge, *p5js-osc*[@kogan_genekoganp5js-osc_2020] wurde speziell für *p5js* entwickelt und war deshalb leicht in das Programm einzubinden. 
+Die hierfür genutzte Bridge, *p5js-osc*[@kogan_genekoganp5js-osc_2020] wurde speziell für *p5js* entwickelt und war deshalb einfach in das Programm einzubinden. 
 
 ### Visualisierung  {#programmbeschreibung}
 
@@ -86,7 +88,7 @@ Der Cursor ist eine Kreisfläche welche an der Stelle gezeichnet wird, an der si
 
 ## Max {#max}
 
-*Max* (ehemals *Max/MSP*) ist eine graphische Entwicklungsumgebung für Signalverarbeitung und Multimedia welche genutzt werden kann um flexible Echtzeitsignalverarbeitung zu implementieren. Außer der Signalverarbeitung hat *Max* viele weitere Funktionen, welche in der graphischen Umgebung als *Objects* bezeichnet werden, die unter anderem Logikoperationen, Textverarbeitung und vieles mehr erlauben. [@cycling_74_max_nodate]
+*Max* (ehemals *Max/MSP*) ist eine graphische Entwicklungsumgebung für Signalverarbeitung und Multimedia, welche genutzt werden kann um flexible Echtzeitsignalverarbeitung zu implementieren. Außer der Signalverarbeitung hat *Max* viele weitere Funktionen, welche in der graphischen Umgebung als *Objects* bezeichnet werden, die unter anderem Logikoperationen, Textverarbeitung und vieles mehr erlauben. [@cycling_74_max_2018]
 
 ### Kommunikation
 
@@ -102,7 +104,7 @@ Der Zugtyp bzw. die Zuordnung zu den Personae entscheidet, welche Tondatei abges
 
 Die Tonwiedergabe wird durch die Berührung des Zuges ausgelöst und durch den Fortschritt des Zuges gesteuert. Je nachdem wie weit der Zug in seiner Reise fortgeschritten ist, wird ein Ausschnitt der Tondatei abgespielt, welcher sich relativ zur Länge der Tondatei an der selben Stelle befindet.
 
-Das positionieren der virtuellen Schallquelle im Surroundfeld geschieht anhand der durch die von *p5js* übergebenen relativen Positionen der Züge zum Cursor. Die einmaligen Zug IDs in der Positionsliste werden mit dem aktuell in der Wiedergabeinstanz gespielten Zug verglichen, und Falls es eine Übereinstimmung gibt, wird der Winkel zur Positionierung und der Abstand zur Lautstärkeregulierung genutzt, um die Platzierung in einem virtuellen akustischen Raum zu simulieren.
+Das positionieren der virtuellen Schallquelle im Surroundfeld geschieht anhand der durch die von *p5js* übergebenen relativen Positionen der Züge zum Cursor. Die einmaligen Zug IDs in der Positionsliste werden mit dem aktuell in der Wiedergabeinstanz gespielten Zug verglichen. Falls es eine Übereinstimmung gibt, wird der Winkel zur Positionierung und der Abstand zur Lautstärkeregulierung genutzt, um die Platzierung in einem virtuellen akustischen Raum zu simulieren.
 
 Der Abstand des Zugs wird weiterhin genutzt um den Anteil des Halleffektes zu bestimmen. Ist der Zug weiter weg, so wird der Hallanteil größer. Auch dies soll das Verhalten von realen Schallquellen in einem Raum simulieren.
 
@@ -140,7 +142,7 @@ Der Aufbau der Installation Besteht aus folgenden Elementen:
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=12cm]{raumlayout}
+\includegraphics[width=11cm]{raumlayout}
 \break
 \caption{Raumlayout mit Lautsprecherpositionen}
 \end{figure}
@@ -153,14 +155,11 @@ Als drittes ist ein Teensy angeschlossen. Teensy ist eine Art Microcontroller we
 
 Das MIDI (*Musical Instrument Digital Interface*) Protokoll ist ein Standard zur Übertragung von musikalischen Informationen. [@midi_manufacturers_association_complete_1996 S. 1] MIDI Control Messages sind eine besondere Art von MIDI Nachricht, welche bei der Kontrolle von Synthesizern für alle nicht im MIDI Protokoll spezifizierten Funktionen genutzt werden kann. [@midi_manufacturers_association_complete_1996 S. 4ff]
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=4cm]{saeule}
-\break
-\caption{Säule aus MDF mit eingebautem leuchtenden Trackball}
-\end{figure}
+![Säule aus MDF mit eingebautem leuchtenden Trackball \label{saeule}](Graphics/saeule.jpeg){ height=256px }
 
-Teensy und Trackball wurden gemeinsam in eine 1016mm hohe Säule aus MDF mit einem 300mm*300mm Sockel eingebaut. Der Trackball ragt oben aus der Säule heraus und wird von innen mit den durch den Teensy gesteuerten LEDs beleuchtet. 
+
+
+Teensy und Trackball wurden gemeinsam in eine 1016mm hohe Säule aus MDF mit einem 300mm*300mm Sockel eingebaut. Der Trackball ragt oben aus der Säule heraus und wird von innen mit den durch den Teensy gesteuerten LEDs beleuchtet. (siehe Abb.\ref{saeule} \)
 
 
 

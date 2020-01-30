@@ -11,7 +11,7 @@ geometry:
 - bottom=2cm
 - bindingoffset=0.5cm
 bibliography: Meine Bibliothek.bib
-csl: din-1505-2.csl
+csl: hennings-bachelorarbeit-samac-et-al.csl
 date: \today
 header-includes: |
  \usepackage[T1]{fontenc}
@@ -44,31 +44,45 @@ header-includes: |
  \usepackage{chngcntr}
  \counterwithin{figure}{section}
  \counterwithin{table}{section}
- \setcounter{tocdepth}{4}
+ \setcounter{tocdepth}{4} 
  \usepackage[onehalfspacing]{setspace}
 ...
 
 \pagenumbering{gobble}
 
 \begin{center}
-\includegraphics[height=0.95\textheight, keepaspectratio]{Graphics/Titelblatt.pdf}
+\includegraphics[height=\paperheight, keepaspectratio]{Graphics/Titelblatt.pdf}
 \end{center}
 \newpage
+
+\cleardoublepage
+
+\begin{center}
+\includegraphics[height=\paperheight, keepaspectratio]{Graphics/Erklaerung.pdf}
+\end{center} 
+\newpage
+
 \cleardoublepage
 
 \section*{Zusammenfassung}
 
 Reisen mit dem Zug ist für viele Menschen Alltag. Ob das Pendeln zur Arbeit, der Besuch von Familie oder das Leben in einer Fernbeziehung. So erweitert sich der Raum, in dem das Leben erfahren wird, sowohl um die Infrastruktur des Netzes, also Bahnhöfe, Zugstrecken und Fahrzeuge, als auch um die Orte, welche besucht werden.
 
-*Vernetzt* ist eine Raumklanginstallation hergestellt aus Klängen von Zügen, algorithmisch komponiert aus Echtzeitdaten des Schienenverkehrs. Es handelt sich dabei um eine interaktive Installation, welche mit Webcrawling Daten sammelt, diese dann in *p5js* visuell aufbereitet und in der nodebasierten Entwicklungsumgebung *Max* sonifiziert.
+*Vernetzt* ist eine Raumklanginstallation hergestellt aus Klängen von Zügen, algorithmisch komponiert aus Echtzeitdaten des Schienenverkehrs. Es handelt sich dabei um eine interaktive Installation, welche mit Webscraping Daten sammelt, diese dann in *p5js* visuell aufbereitet und in der nodebasierten Entwicklungsumgebung *Max* sonifiziert.
 
-Die vorliegende Arbeit beschreibt den Entstehungsprozess der Arbeit und wie das Arbeiten mit Klängen und Echtzeitdaten in der Installation kunsthistorisch einzuordnen ist.
+Die vorliegende Arbeit beschreibt den Entstehungsprozess der Arbeit und ihre Umsetzung und wie das Arbeiten mit Klängen und Echtzeitdaten in ihr kunsthistorisch einzuordnen ist.
 
-Schließlich wird durch eine Befragung ermittelt inwiefern die Klanginstallation erfolgreich darin ist, die Gefühle, welche mit Zugreisen verbunden sind, zu kommunizieren und die Erfahrung des Schienennetzes als akustischen Raum zu vermitteln. 
+Schließlich wurde durch eine Befragung ermittelt inwiefern die Klanginstallation erfolgreich darin ist, die Gefühle, welche mit Zugreisen verbunden sind, zu kommunizieren und akustische Qualitäten zu vermitteln.
 
 \section*{Abstract}
 
-\blindtext
+Travelling by train is a part of everyday life for a lot of people, whether they are commuting, visiting family or are living in a long distance relationship. Thus, the space in which life is experienced is expanded by the railway system, encompassing stations, railway lines and vehicles, as well as the places visited.
+
+*Vernetzt* is an interactive sound art installation using train sounds manipulated by real time data of rail traffic. It uses webscraping to collect data, *p5.js* to produce visuals and *Max*, a node based development environment, for its sonification.
+
+The present work describes the development process of the installation, its implementation and how the methods used fit into the art historical context. 
+
+Finally an evaluation of how the installation is perceived in terms of emotion and sound quality is presented. 
 
 \newpage
 
@@ -76,12 +90,10 @@ Schließlich wird durch eine Befragung ermittelt inwiefern die Klanginstallation
 
 \tableofcontents
 \newpage
-
-\listoftables
-\newpage
-
+\cleardoublepage 
 \listoffigures
-\newpage
+
+\cleardoublepage
 
 \justifying 
 
