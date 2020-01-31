@@ -35,25 +35,25 @@ Eine Bedrohung kann beispielsweise ein Stimulus sein, daraus erfolgt dann die Ko
 
 Basierend auf Darwins Forschung zu Emotionen kommt Plutchik zu dem Schluß, dass Emotionen die evolutionäre Fitness steigern können. Er definierte acht Grundemotionen dessen Existenz auf diese Weise begründet werden könnten und verteilte sie im Rad der Emotionen von innen nach außen schwächer werdend und nach Farben in acht Strahlen, welche die Grundemotionen darstellen, eingeteilt.
 
-![Rad der Emotionen nach Robert Plutchik [@machine_elf_1735_metoaster_robert_2012]\label{radderemotionen}](Graphics/emotionenleer.jpg){ height=400px }
+![Rad der Emotionen nach Robert Plutchik [@machine_elf_1735_metoaster_robert_2012]\label{radderemotionen}](Graphics/emotionenleer.jpg){ height=350px }
 
 Die in den Leerstellen von Abb. \ref{radderemotionen} zu sehenden Emotionen sind die sogenannten *primary dyads* also Kombinationen aus zwei Grundemotionen. Plutchik erklärt die Vielfalt der erlebten Emotionen unter anderem dadurch, dass viele dieser Emotionen Kombinationen aus Grundemotionen oder Kombinationen aus Kombinationen dieser sind (*secondary dyads*, *tertiary dyads*, etc.). [@plutchik_nature_2001 S. 345ff]
 
-Dieses Rad wurde zur Abfrage der in der Installation erlebten Emotionen genutzt, da die Nutzung dessen das Interesse und die Motivation der Nutzer signifikant erhöht. Dies ist wichtig, da die Motivation des Nutzers beim ausfüllen von Fragebögen wichtig für die Qualität der Antworten ist. [@warpechowski_tagging_2019]
+Dieses Rad wurde zur Abfrage der in der Installation erlebten Emotionen genutzt, da die Nutzung dessen das Interesse und die Motivation der Nutzer signifikant erhöht. Dies ist wichtig, da die Motivation des Nutzers beim Ausfüllen von Fragebögen wichtig für die Qualität der Antworten ist. [@warpechowski_tagging_2019]
 
 ### Zusätzliche Fragen
 
-Zu den fragen, welche durch die Benutzung von Skalen beantwortet werden konnten, wurde noch eine offene Frage mit einem Textfeld für die Antwort gestellt. Hier wurde nach den durch das Kunstwerk angestoßenen Gedanken gefragt. 
+Zu den Fragen, welche durch die Benutzung von Skalen beantwortet werden konnten, wurde noch eine offene Frage mit einem Textfeld für die Antwort gestellt. Hier wurde nach den durch das Kunstwerk angestoßenen Gedanken gefragt. 
 
 Für die bessere Einordnung der Antworten wurden Fragen über Tätigkeit, Alter und vorangehende Erfahrungen mit Interaktiven Kunstwerken gestellt.
 
 ### Limitierungen
 
-Zunächst ist die Evaluation dadurch limitiert, dass die Befragten zu einem großen Teil persönliche bekannte des Künstlers waren. Es ist anzunehmen, dass dies dafür sorgte, dass die Daten in die Richtung verzerrt sind, die die Teilnehmer als im Sinne des Künstler empfanden.
+Zunächst ist die Evaluierung dadurch limitiert, dass die Befragten zu einem großen Teil persönliche Bekannte des Künstlers waren. Es ist anzunehmen, dass dies dafür sorgte, dass die Daten in die Richtung verzerrt sind, die die Teilnehmer als im Sinne des Künstler empfanden.
 
 Eine kleine Stichprobengröße von 15 sorgt außerdem dafür, dass Ausreißer in den Daten, nicht die Chance haben ausgeglichen zu werden und schlagen sich stark in berechneten Durchschnittswerten nieder, wodurch diese weniger brauchbar werden.
 
-Weiterhin war die Umgebung der Evaluation wenig kontrolliert, da sie auf einer öffentlichen Veranstaltung stattfand, die einer Vernissage ähnelte. Dies war zwar gewünscht, da dies eine angemessene Umgebung für das Wahrnehmen einer solchen Installation ist, jedoch bedeutet dies auch, dass unkontrollierbare Faktoren in die Bewertung mit einflossen.
+Weiterhin war die Umgebung der Evaluaierung wenig kontrolliert, da sie auf einer öffentlichen Veranstaltung stattfand, die einer Vernissage ähnelte. Dies war zwar gewünscht, da dies eine angemessene Umgebung für das Wahrnehmen einer solchen Installation ist, jedoch bedeutet dies auch, dass unkontrollierbare Faktoren in die Bewertung mit einflossen.
 
 Das Ausschenken von Alkohol im Rahmen der Veranstaltung ist ein potentieller Faktor, welcher die Wahrnehmung der Teilnehmer getrübt haben könnte. Aus diesem Grund wurden die Teilnehmer darum gebeten, die Fragebögen möglichst bald nach ihrer Ankunft auszufüllen, es wurde jedoch nicht kontrolliert, ob dieser Bitte gefolgt wurde.
 
@@ -61,7 +61,7 @@ Weiterhin gab es im Laufe der Veranstaltung eine Zeitspanne, in der die Installa
 
 ## Gewonnene Erkenntnisse {#gewonnene-erkenntnisse}
 
-Die Umhüllung wurde sehr unterschiedlich empfunden, mit einem leichten Trend weg von als räumlich wahrgenommenen Klang hin zu nicht umhüllenden Klang. Daraus könnte geschlossen werden, dass die Eingebauten Soundprocessings von Hall, Positionierung und Lautstärke durch Distanz, nicht ausreichen oder nicht korrekt konfiguriert wurden um einen räumlichen Klangeindruck zu schaffen.
+Die Umhüllung wurde sehr unterschiedlich empfunden, mit einem leichten Trend weg von als räumlich wahrgenommenen Klang hin zu nicht umhüllenden Klang. Daraus könnte geschlossen werden, dass die eingebauten Soundprocessings von Hall, Positionierung und Lautstärke durch Distanz, nicht ausreichen oder nicht korrekt konfiguriert wurden um einen räumlichen Klangeindruck zu schaffen.
 
 Bei der Einbindung der Klänge der Installation in den Ausstellungsraum ist ein leichter Trend hin zur Wahrnehmung des Klangs als seperat vom Ausstellungsraum festzustellen, was die These, dass die räumlichen Effekte verbesserungswürdig sind bestärkt.
 
@@ -71,9 +71,9 @@ Das Erlebte wurde außerdem überwiegend als Angenehm bewertet, was einen Hinwei
 
 Die Frage danach, ob Inhalt oder Umsetzung im Vordergrund standen, ergab die meisten Extremantworten. Ein möglicher Erklärungsansatz liegt darin, dass die Steckbriefe der Personae nicht einfach zu finden waren, denn die Befragten welche angaben, dass in ihrer Wahrnehmung die Umsetzung im Vordergrund stand, gaben in der emotionalen Zustandsabfrage auch an Gefühle von Verwirrung, Überraschung oder Erstaunen verspürt zu haben.
 
-Ein Großteil der Befragten gab an, die Installation löse keine originellen Gedanken aus, nur ein Viertel gab an sie löse Gedanken aus, die sie am nächsten Tag noch beschäftigen würden. Dies könnte entweder durch eine Mangelhafte inhaltliche Idee der Installation oder durch eine mangelhafte Kommunikation des Inhalts der Installation zu erklären sein.
+Ein Großteil der Befragten gab an, die Installation löse keine originellen Gedanken aus, nur ein Viertel gab an sie löse Gedanken aus, die sie am nächsten Tag noch beschäftigen würden. Dies könnte entweder durch eine mangelhafte inhaltliche Idee der Installation oder durch eine mangelhafte Kommunikation des Inhalts der Installation zu erklären sein.
 
-![Häufigkeit der angegebenen Emotionen als Zahlen im jeweiligen Feld. \label{radderemotionendaten}](Graphics/emotionendaten.jpg){ height=400px }
+![Häufigkeit der angegebenen Emotionen als Zahlen im jeweiligen Feld. \label{radderemotionendaten}](Graphics/emotionendaten.jpg){ height=350px }
 
 Anhand der angegebenen Emotionen aus dem Rad der Emotionen (siehe Abb. \ref{radderemotionendaten}) ist zu erkennen, dass Überwiegend positive Emotionen empfunden wurden. Dies widerspricht nicht dem gewünschten Effekt, da die Installation unter anderem darauf abzielte die veränderte Geräuschkulisse durch die Maschinen im nachindustriellen Zeitalter, welche oft als störend empfunden wird, als etwas ästhetisches darzustellen. 
 

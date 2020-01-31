@@ -4,7 +4,7 @@
 
 Wie in \ref{gewonnene-erkenntnisse}  [*Gewonnene Erkentnnisse*](#gewonnene-erkenntnisse) (S. \pageref{gewonnene-erkenntnisse}) erwähnt ist der Prozess, mit welchem die Züge durch sound processing räumlich werden noch verbesserungswürdig. Eine Option wäre die Nutzung eines Surround-Halls, welcher einen Raum simuliert. In der aktuellen Implementierung hat jeder Zug seinen eigenen Mono-Hall, welcher auf das Ausgangssignal der Tonwiedergabe gemischt wird. Würde ein Surround-Hall verwendet, würden die Klänge auch aus anderen Richtungen reflektiert werden, was eher einem echten akustischen Raum entspräche.
 
-Die Struktur der Softwarekomponenten könnte in Zukunft noch vereinfacht werden. *extractStation.js* und *getStrecken.js* könnten zu einem Prozess zusammengefasst werden, um die Vorbereitung neuer Streckengebiete zu vereinfachen. Außerdem könnte der *p5js-osc* Prozess in *scraper.js* eingebaut werden, so dass es nur einen *Node.js* Prozess, einen *Max* Prozess und eine *p5js* Instanz gäbe. Außerdem könnten Dinge die aktuell in *p5js*  und in *Max* parallel stattfinden, wie die Zuordnung des Zugtyps zu den Personae, Zentralisiert in dem *Node.js* Prozess stattfinden. Dies würde die Flexibilität für zukünftige Änderungen erhöhen und den Betrieb und die Fehlersuche vereinfachen.
+Die Struktur der Softwarekomponenten könnte in Zukunft noch vereinfacht werden. *extractStation.js* und *getStrecken.js* könnten zu einem Prozess zusammengefasst werden, um die Vorbereitung neuer Streckengebiete zu vereinfachen. Außerdem könnte der *p5js-osc* Prozess in *scraper.js* eingebaut werden, so dass es nur einen *Node.js* Prozess, einen *Max* Prozess und eine *p5js* Instanz gäbe. Außerdem könnten Dinge die aktuell in *p5js*  und in *Max* parallel stattfinden, wie die Zuordnung des Zugtyps zu den Personae, zentralisiert in dem *Node.js* Prozess stattfinden. Dies würde die Flexibilität für zukünftige Änderungen erhöhen und den Betrieb und die Fehlersuche vereinfachen.
 
 Zusätzlich wäre für weitere Ausstellungen der Installation wünschenswert, die Personabeschreibungen auf Hartschaumplatten drucken zu lassen. Dies würde der Installation ein professionelleres Erscheinungsbild geben. Auf eine vierte Hartschaumplatte könnte eine kurze Beschreibung der Funktionsweise und der inhaltlichen Hintergründe gegeben werden, um Besuchern, welche an dem genaueren Kontext des Kunstwerkes interessiert sind, die Möglichkeit zu geben, diesen zu erfahren.
 
@@ -28,7 +28,7 @@ Ebenso danke ich Christian Losert für Anregungen zum Inhalt der Installation un
 
 Besonderer Dank gilt auch Johannes Schubert, dem Entwickler von *Zugfinder.de*, ohne dessen Zugdaten die Umsetzung der Installation so nicht funktioniert hätte.
 
-Auch die Teilnehmer*innen meiner Evaluation und alle die an der Gestaltung der Veranstaltung, welche den Rahmen für diese bot, beteiligt waren, haben durch ihre Hilfsbereitschaft einen Wertvollen Beitrag zu meiner Bachelorarbeit geleistet.
+Auch die Teilnehmer*innen meiner Evaluierung und alle die an der Gestaltung der Veranstaltung, welche den Rahmen für diese bot, beteiligt waren, haben durch ihre Hilfsbereitschaft einen Wertvollen Beitrag zu meiner Bachelorarbeit geleistet.
 
 Außerdem möchte ich mich bei Gabriel Arlauskas, Julia Stoll und Leonie Adam für das Bereitstellen privater Fotografien bedanken.
 
@@ -64,3 +64,7 @@ Letztlich richte ich auch ein Dankeschön an Felicitas Weber und Gundula Schaar 
 \newpage
 
 ![](Graphics/leonie.pdf){ width=\pagewidth }
+
+## Code
+
+Der gesamte code für das Projekt sowie dieses Dokument selbst ist verfügbar unter [https://github.com/HenningSchaar/vernetzt.git](https://github.com/HenningSchaar/vernetzt.git). Dort werden auch alle zukünftigen aktualisierungen der Software zu finden sein. Um den Zustand eines der verlinkten Repositories zum Zeitpunkt der Abgabe zu sehen nutzen sie den jeweiligen Branch *published*.
